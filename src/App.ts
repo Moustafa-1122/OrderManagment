@@ -1,6 +1,8 @@
 //single responsability principles(srp)
 //open closed principles(ocp)
 
+import logger from "./util/logger";
+
 export interface Order {
     id: number,
     price: number,
@@ -9,6 +11,7 @@ export interface Order {
 
 export class OrderManagment {
 constructor(private validator:Ivalidator,private calculator:Icalculator) {
+    logger.debug("orderManagment instance created with validator and calculator")
 
 }
 
@@ -17,12 +20,21 @@ constructor(private validator:Ivalidator,private calculator:Icalculator) {
         return this.orders
     }
     addOrder(item: string, price: number) {
-        const order: Order = { id: this.orders.length + 1, item, price };
+        try{
+            const order: Order = { id: this.orders.length + 1, item, price };
         this.validator.validate(order);
         this.orders.push(order);
+        }catch(error:any) { 
+            throw new Error("[OrderManagment] error adding error "+error.message)
+        }
+        
     }
     getOrder(id: number): Order | undefined {
-        return this.getOrders().find(order => order.id === id);
+        const order = this.orders.find(order => order.id === id);
+        if (!order) {
+            logger.warn(`[OrderManagment] Order with ID ${id} not found.`);
+        }
+        return order;
     }
     getTotalRevenue(): number {
         return this.calculator.getRevenue(this.orders);
@@ -71,8 +83,10 @@ export class Validator implements Ivalidator,possibleItems {
 
 export class ValidateMaxPrice implements Ivalidator {
     validate(order: Order): void {
-        if (order.price <= 0) {
-            throw new Error("Price must be greater than zero");
+        if (order.price >100) {
+             logger.error(`[ValidateItem] Invalid price:Price must be less than or equal to 100 ${order.price}`);
+           
+            throw new Error("Price must be less than or equal to 100");
         }
     }
 }
@@ -82,8 +96,9 @@ export class ValidateMaxPrice implements Ivalidator {
 export class ValidatePrice implements Ivalidator {
 
     validate(order: Order): void {
-        if (order.price > 100) {
-            throw new Error(`Price must not exceed 100. Given price: ${order.price}`);
+        if (order.price <= 0) {
+             logger.error(`[ValidateItem] Invalid price: ${order.price}`);
+            throw new Error(`Price must be a positive number. Given price: ${order.price}`);
         }
     }
 
@@ -115,8 +130,10 @@ interface Icalculator {
 }
 
 export class FinanceCalculator implements Icalculator {
-    static getAverageBuyPower(orders: { id: number; item: string; price: number; }[]) {
-      throw new Error("Method not implemented.");
+        static getAverageBuyPower(orders: Order[]): number {
+                return orders.length === 0
+                        ? 0
+                        : orders.reduce((total, order) => total + order.price, 0) / orders.length;
     }
     public  getRevenue(orders: Order[]): number {
         return orders.reduce((total, order) => total + order.price, 0);

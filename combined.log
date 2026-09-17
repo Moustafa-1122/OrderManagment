@@ -1,0 +1,30 @@
+{"level":"info","message":"Orders after adding a new order:%o","timestamp":"2026-09-16"}
+{"level":"info","message":"Total Revenue: %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Average Buy Power: %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 2: %o","timestamp":"2026-09-16"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found.","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 10 (non-existent): %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Orders after adding a new order:%o","timestamp":"2026-09-16"}
+{"level":"info","message":"Total Revenue: %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Average Buy Power: %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 2: %o","timestamp":"2026-09-16"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found.","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 10 (non-existent): %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Orders after adding a new order:%o","timestamp":"2026-09-16"}
+{"level":"info","message":"Total Revenue: %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Average Buy Power: %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 2: %o","timestamp":"2026-09-16"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found.","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 10 (non-existent): %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Orders after adding a new order:%o","timestamp":"2026-09-16"}
+{"level":"info","message":"Total Revenue: %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Average Buy Power: %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 2: %o","timestamp":"2026-09-16"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found.","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 10 (non-existent): %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Orders after adding a new order:%o","timestamp":"2026-09-16"}
+{"level":"info","message":"Total Revenue: %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Average Buy Power: %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 2: %o","timestamp":"2026-09-16"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found.","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 10 (non-existent): %o","timestamp":"2026-09-16"}

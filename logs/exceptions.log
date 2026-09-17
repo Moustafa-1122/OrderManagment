@@ -1,0 +1,1069 @@
+{
+    "date": "Wed Sep 16 2026 20:17:02 GMT+0300 (Eastern European Summer Time)",
+    "error": {},
+    "exception": true,
+    "level": "error",
+    "message": "uncaughtException: [OrderManagment] error adding error Price must be greater than zero\nError: [OrderManagment] error adding error Price must be greater than zero\n    at OrderManagment.addOrder (C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts:27:19)\n    at Object.<anonymous> (C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts:22:19)\n    at Module.<anonymous> (node:internal/modules/cjs/loader:1934:14)\n    at Module._compile (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js:568:25)\n    at Module.m._compile (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-7175175619241771.js:69:33)\n    at node:internal/modules/cjs/loader:2074:10\n    at require.extensions..jsx.require.extensions..js (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-7175175619241771.js:114:20)\n    at require.extensions.<computed> (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-7175175619241771.js:71:20)\n    at Object.nodeDevHook [as .ts] (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js:63:13)\n    at Module.load (node:internal/modules/cjs/loader:1656:32)",
+    "os": {
+        "loadavg": [
+            0,
+            0,
+            0
+        ],
+        "uptime": 97313.937
+    },
+    "process": {
+        "argv": [
+            "C:\\Program Files\\nodejs\\node.exe",
+            "src/index.ts"
+        ],
+        "cwd": "C:\\Users\\alaat\\Desktop\\SE2",
+        "execPath": "C:\\Program Files\\nodejs\\node.exe",
+        "gid": null,
+        "memoryUsage": {
+            "arrayBuffers": 156995,
+            "external": 2402044,
+            "heapTotal": 14290944,
+            "heapUsed": 8706768,
+            "rss": 56803328
+        },
+        "pid": 24556,
+        "uid": null,
+        "version": "v26.5.0"
+    },
+    "stack": "Error: [OrderManagment] error adding error Price must be greater than zero\n    at OrderManagment.addOrder (C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts:27:19)\n    at Object.<anonymous> (C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts:22:19)\n    at Module.<anonymous> (node:internal/modules/cjs/loader:1934:14)\n    at Module._compile (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js:568:25)\n    at Module.m._compile (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-7175175619241771.js:69:33)\n    at node:internal/modules/cjs/loader:2074:10\n    at require.extensions..jsx.require.extensions..js (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-7175175619241771.js:114:20)\n    at require.extensions.<computed> (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-7175175619241771.js:71:20)\n    at Object.nodeDevHook [as .ts] (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js:63:13)\n    at Module.load (node:internal/modules/cjs/loader:1656:32)",
+    "trace": [
+        {
+            "column": 19,
+            "file": "C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts",
+            "function": "OrderManagment.addOrder",
+            "line": 27,
+            "method": "addOrder",
+            "native": false
+        },
+        {
+            "column": 19,
+            "file": "C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts",
+            "function": null,
+            "line": 22,
+            "method": null,
+            "native": false
+        },
+        {
+            "column": 14,
+            "file": "node:internal/modules/cjs/loader",
+            "function": null,
+            "line": 1934,
+            "method": null,
+            "native": false
+        },
+        {
+            "column": 25,
+            "file": "C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js",
+            "function": "Module._compile",
+            "line": 568,
+            "method": "_compile",
+            "native": false
+        },
+        {
+            "column": 33,
+            "file": "C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-7175175619241771.js",
+            "function": "Module.m._compile",
+            "line": 69,
+            "method": "_compile",
+            "native": false
+        },
+        {
+            "column": 10,
+            "file": "node:internal/modules/cjs/loader",
+            "function": null,
+            "line": 2074,
+            "method": null,
+            "native": false
+        },
+        {
+            "column": 20,
+            "file": "C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-7175175619241771.js",
+            "function": "require.extensions..jsx.require.extensions..js",
+            "line": 114,
+            "method": ".js",
+            "native": false
+        },
+        {
+            "column": 20,
+            "file": "C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-7175175619241771.js",
+            "function": "require.extensions.<computed>",
+            "line": 71,
+            "method": "<computed>",
+            "native": false
+        },
+        {
+            "column": 13,
+            "file": "C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js",
+            "function": "Object.nodeDevHook [as .ts]",
+            "line": 63,
+            "method": "ts]",
+            "native": false
+        },
+        {
+            "column": 32,
+            "file": "node:internal/modules/cjs/loader",
+            "function": "Module.load",
+            "line": 1656,
+            "method": "load",
+            "native": false
+        }
+    ]
+}
+
+{
+    "date": "Wed Sep 16 2026 20:17:15 GMT+0300 (Eastern European Summer Time)",
+    "error": {},
+    "exception": true,
+    "level": "error",
+    "message": "uncaughtException: [OrderManagment] error adding error Price must not exceed 100. Given price: 15\nError: [OrderManagment] error adding error Price must not exceed 100. Given price: 15\n    at OrderManagment.addOrder (C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts:27:19)\n    at Object.<anonymous> (C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts:22:19)\n    at Module.<anonymous> (node:internal/modules/cjs/loader:1934:14)\n    at Module._compile (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js:568:25)\n    at Module.m._compile (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-7175175619241771.js:69:33)\n    at node:internal/modules/cjs/loader:2074:10\n    at require.extensions..jsx.require.extensions..js (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-7175175619241771.js:114:20)\n    at require.extensions.<computed> (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-7175175619241771.js:71:20)\n    at Object.nodeDevHook [as .ts] (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js:63:13)\n    at Module.load (node:internal/modules/cjs/loader:1656:32)",
+    "os": {
+        "loadavg": [
+            0,
+            0,
+            0
+        ],
+        "uptime": 97327.765
+    },
+    "process": {
+        "argv": [
+            "C:\\Program Files\\nodejs\\node.exe",
+            "src/index.ts"
+        ],
+        "cwd": "C:\\Users\\alaat\\Desktop\\SE2",
+        "execPath": "C:\\Program Files\\nodejs\\node.exe",
+        "gid": null,
+        "memoryUsage": {
+            "arrayBuffers": 157006,
+            "external": 2402044,
+            "heapTotal": 13242368,
+            "heapUsed": 8661752,
+            "rss": 57323520
+        },
+        "pid": 25452,
+        "uid": null,
+        "version": "v26.5.0"
+    },
+    "stack": "Error: [OrderManagment] error adding error Price must not exceed 100. Given price: 15\n    at OrderManagment.addOrder (C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts:27:19)\n    at Object.<anonymous> (C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts:22:19)\n    at Module.<anonymous> (node:internal/modules/cjs/loader:1934:14)\n    at Module._compile (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js:568:25)\n    at Module.m._compile (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-7175175619241771.js:69:33)\n    at node:internal/modules/cjs/loader:2074:10\n    at require.extensions..jsx.require.extensions..js (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-7175175619241771.js:114:20)\n    at require.extensions.<computed> (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-7175175619241771.js:71:20)\n    at Object.nodeDevHook [as .ts] (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js:63:13)\n    at Module.load (node:internal/modules/cjs/loader:1656:32)",
+    "trace": [
+        {
+            "column": 19,
+            "file": "C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts",
+            "function": "OrderManagment.addOrder",
+            "line": 27,
+            "method": "addOrder",
+            "native": false
+        },
+        {
+            "column": 19,
+            "file": "C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts",
+            "function": null,
+            "line": 22,
+            "method": null,
+            "native": false
+        },
+        {
+            "column": 14,
+            "file": "node:internal/modules/cjs/loader",
+            "function": null,
+            "line": 1934,
+            "method": null,
+            "native": false
+        },
+        {
+            "column": 25,
+            "file": "C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js",
+            "function": "Module._compile",
+            "line": 568,
+            "method": "_compile",
+            "native": false
+        },
+        {
+            "column": 33,
+            "file": "C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-7175175619241771.js",
+            "function": "Module.m._compile",
+            "line": 69,
+            "method": "_compile",
+            "native": false
+        },
+        {
+            "column": 10,
+            "file": "node:internal/modules/cjs/loader",
+            "function": null,
+            "line": 2074,
+            "method": null,
+            "native": false
+        },
+        {
+            "column": 20,
+            "file": "C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-7175175619241771.js",
+            "function": "require.extensions..jsx.require.extensions..js",
+            "line": 114,
+            "method": ".js",
+            "native": false
+        },
+        {
+            "column": 20,
+            "file": "C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-7175175619241771.js",
+            "function": "require.extensions.<computed>",
+            "line": 71,
+            "method": "<computed>",
+            "native": false
+        },
+        {
+            "column": 13,
+            "file": "C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js",
+            "function": "Object.nodeDevHook [as .ts]",
+            "line": 63,
+            "method": "ts]",
+            "native": false
+        },
+        {
+            "column": 32,
+            "file": "node:internal/modules/cjs/loader",
+            "function": "Module.load",
+            "line": 1656,
+            "method": "load",
+            "native": false
+        }
+    ]
+}
+{
+    "date": "Wed Sep 16 2026 20:17:21 GMT+0300 (Eastern European Summer Time)",
+    "error": {},
+    "exception": true,
+    "level": "error",
+    "message": "uncaughtException: [OrderManagment] error adding error Price must not exceed 100. Given price: 15\nError: [OrderManagment] error adding error Price must not exceed 100. Given price: 15\n    at OrderManagment.addOrder (C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts:27:19)\n    at Object.<anonymous> (C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts:22:19)\n    at Module.<anonymous> (node:internal/modules/cjs/loader:1934:14)\n    at Module._compile (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js:568:25)\n    at Module.m._compile (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-7175175619241771.js:69:33)\n    at node:internal/modules/cjs/loader:2074:10\n    at require.extensions..jsx.require.extensions..js (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-7175175619241771.js:114:20)\n    at require.extensions.<computed> (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-7175175619241771.js:71:20)\n    at Object.nodeDevHook [as .ts] (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js:63:13)\n    at Module.load (node:internal/modules/cjs/loader:1656:32)",
+    "os": {
+        "loadavg": [
+            0,
+            0,
+            0
+        ],
+        "uptime": 97332.953
+    },
+    "process": {
+        "argv": [
+            "C:\\Program Files\\nodejs\\node.exe",
+            "src/index.ts"
+        ],
+        "cwd": "C:\\Users\\alaat\\Desktop\\SE2",
+        "execPath": "C:\\Program Files\\nodejs\\node.exe",
+        "gid": null,
+        "memoryUsage": {
+            "arrayBuffers": 157006,
+            "external": 2402044,
+            "heapTotal": 13504512,
+            "heapUsed": 8702336,
+            "rss": 57593856
+        },
+        "pid": 27824,
+        "uid": null,
+        "version": "v26.5.0"
+    },
+    "stack": "Error: [OrderManagment] error adding error Price must not exceed 100. Given price: 15\n    at OrderManagment.addOrder (C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts:27:19)\n    at Object.<anonymous> (C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts:22:19)\n    at Module.<anonymous> (node:internal/modules/cjs/loader:1934:14)\n    at Module._compile (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js:568:25)\n    at Module.m._compile (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-7175175619241771.js:69:33)\n    at node:internal/modules/cjs/loader:2074:10\n    at require.extensions..jsx.require.extensions..js (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-7175175619241771.js:114:20)\n    at require.extensions.<computed> (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-7175175619241771.js:71:20)\n    at Object.nodeDevHook [as .ts] (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js:63:13)\n    at Module.load (node:internal/modules/cjs/loader:1656:32)",
+    "trace": [
+        {
+            "column": 19,
+            "file": "C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts",
+            "function": "OrderManagment.addOrder",
+            "line": 27,
+            "method": "addOrder",
+            "native": false
+        },
+        {
+            "column": 19,
+            "file": "C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts",
+            "function": null,
+            "line": 22,
+            "method": null,
+            "native": false
+        },
+        {
+            "column": 14,
+            "file": "node:internal/modules/cjs/loader",
+            "function": null,
+            "line": 1934,
+            "method": null,
+            "native": false
+        },
+        {
+            "column": 25,
+            "file": "C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js",
+            "function": "Module._compile",
+            "line": 568,
+            "method": "_compile",
+            "native": false
+        },
+        {
+            "column": 33,
+            "file": "C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-7175175619241771.js",
+            "function": "Module.m._compile",
+            "line": 69,
+            "method": "_compile",
+            "native": false
+        },
+        {
+            "column": 10,
+            "file": "node:internal/modules/cjs/loader",
+            "function": null,
+            "line": 2074,
+            "method": null,
+            "native": false
+        },
+        {
+            "column": 20,
+            "file": "C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-7175175619241771.js",
+            "function": "require.extensions..jsx.require.extensions..js",
+            "line": 114,
+            "method": ".js",
+            "native": false
+        },
+        {
+            "column": 20,
+            "file": "C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-7175175619241771.js",
+            "function": "require.extensions.<computed>",
+            "line": 71,
+            "method": "<computed>",
+            "native": false
+        },
+        {
+            "column": 13,
+            "file": "C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js",
+            "function": "Object.nodeDevHook [as .ts]",
+            "line": 63,
+            "method": "ts]",
+            "native": false
+        },
+        {
+            "column": 32,
+            "file": "node:internal/modules/cjs/loader",
+            "function": "Module.load",
+            "line": 1656,
+            "method": "load",
+            "native": false
+        }
+    ]
+}
+{
+    "date": "Wed Sep 16 2026 20:17:25 GMT+0300 (Eastern European Summer Time)",
+    "error": {},
+    "exception": true,
+    "level": "error",
+    "message": "uncaughtException: [OrderManagment] error adding error Price must not exceed 100. Given price: 15\nError: [OrderManagment] error adding error Price must not exceed 100. Given price: 15\n    at OrderManagment.addOrder (C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts:27:19)\n    at Object.<anonymous> (C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts:22:19)\n    at Module.<anonymous> (node:internal/modules/cjs/loader:1934:14)\n    at Module._compile (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js:568:25)\n    at Module.m._compile (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-7175175619241771.js:69:33)\n    at node:internal/modules/cjs/loader:2074:10\n    at require.extensions..jsx.require.extensions..js (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-7175175619241771.js:114:20)\n    at require.extensions.<computed> (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-7175175619241771.js:71:20)\n    at Object.nodeDevHook [as .ts] (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js:63:13)\n    at Module.load (node:internal/modules/cjs/loader:1656:32)",
+    "os": {
+        "loadavg": [
+            0,
+            0,
+            0
+        ],
+        "uptime": 97337.109
+    },
+    "process": {
+        "argv": [
+            "C:\\Program Files\\nodejs\\node.exe",
+            "src/index.ts"
+        ],
+        "cwd": "C:\\Users\\alaat\\Desktop\\SE2",
+        "execPath": "C:\\Program Files\\nodejs\\node.exe",
+        "gid": null,
+        "memoryUsage": {
+            "arrayBuffers": 157006,
+            "external": 2402044,
+            "heapTotal": 13766656,
+            "heapUsed": 8687872,
+            "rss": 57081856
+        },
+        "pid": 25324,
+        "uid": null,
+        "version": "v26.5.0"
+    },
+    "stack": "Error: [OrderManagment] error adding error Price must not exceed 100. Given price: 15\n    at OrderManagment.addOrder (C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts:27:19)\n    at Object.<anonymous> (C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts:22:19)\n    at Module.<anonymous> (node:internal/modules/cjs/loader:1934:14)\n    at Module._compile (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js:568:25)\n    at Module.m._compile (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-7175175619241771.js:69:33)\n    at node:internal/modules/cjs/loader:2074:10\n    at require.extensions..jsx.require.extensions..js (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-7175175619241771.js:114:20)\n    at require.extensions.<computed> (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-7175175619241771.js:71:20)\n    at Object.nodeDevHook [as .ts] (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js:63:13)\n    at Module.load (node:internal/modules/cjs/loader:1656:32)",
+    "trace": [
+        {
+            "column": 19,
+            "file": "C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts",
+            "function": "OrderManagment.addOrder",
+            "line": 27,
+            "method": "addOrder",
+            "native": false
+        },
+        {
+            "column": 19,
+            "file": "C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts",
+            "function": null,
+            "line": 22,
+            "method": null,
+            "native": false
+        },
+        {
+            "column": 14,
+            "file": "node:internal/modules/cjs/loader",
+            "function": null,
+            "line": 1934,
+            "method": null,
+            "native": false
+        },
+        {
+            "column": 25,
+            "file": "C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js",
+            "function": "Module._compile",
+            "line": 568,
+            "method": "_compile",
+            "native": false
+        },
+        {
+            "column": 33,
+            "file": "C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-7175175619241771.js",
+            "function": "Module.m._compile",
+            "line": 69,
+            "method": "_compile",
+            "native": false
+        },
+        {
+            "column": 10,
+            "file": "node:internal/modules/cjs/loader",
+            "function": null,
+            "line": 2074,
+            "method": null,
+            "native": false
+        },
+        {
+            "column": 20,
+            "file": "C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-7175175619241771.js",
+            "function": "require.extensions..jsx.require.extensions..js",
+            "line": 114,
+            "method": ".js",
+            "native": false
+        },
+        {
+            "column": 20,
+            "file": "C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-7175175619241771.js",
+            "function": "require.extensions.<computed>",
+            "line": 71,
+            "method": "<computed>",
+            "native": false
+        },
+        {
+            "column": 13,
+            "file": "C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js",
+            "function": "Object.nodeDevHook [as .ts]",
+            "line": 63,
+            "method": "ts]",
+            "native": false
+        },
+        {
+            "column": 32,
+            "file": "node:internal/modules/cjs/loader",
+            "function": "Module.load",
+            "line": 1656,
+            "method": "load",
+            "native": false
+        }
+    ]
+}
+{
+    "date": "Wed Sep 16 2026 20:17:38 GMT+0300 (Eastern European Summer Time)",
+    "error": {},
+    "exception": true,
+    "level": "error",
+    "message": "uncaughtException: [OrderManagment] error adding error Price must not exceed 100. Given price: 15\nError: [OrderManagment] error adding error Price must not exceed 100. Given price: 15\n    at OrderManagment.addOrder (C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts:27:19)\n    at Object.<anonymous> (C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts:22:19)\n    at Module.<anonymous> (node:internal/modules/cjs/loader:1934:14)\n    at Module._compile (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js:568:25)\n    at Module.m._compile (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-649468663976259.js:69:33)\n    at node:internal/modules/cjs/loader:2074:10\n    at require.extensions..jsx.require.extensions..js (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-649468663976259.js:114:20)\n    at require.extensions.<computed> (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-649468663976259.js:71:20)\n    at Object.nodeDevHook [as .ts] (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js:63:13)\n    at Module.load (node:internal/modules/cjs/loader:1656:32)",
+    "os": {
+        "loadavg": [
+            0,
+            0,
+            0
+        ],
+        "uptime": 97350.296
+    },
+    "process": {
+        "argv": [
+            "C:\\Program Files\\nodejs\\node.exe",
+            "src/index.ts"
+        ],
+        "cwd": "C:\\Users\\alaat\\Desktop\\SE2",
+        "execPath": "C:\\Program Files\\nodejs\\node.exe",
+        "gid": null,
+        "memoryUsage": {
+            "arrayBuffers": 157006,
+            "external": 2402044,
+            "heapTotal": 13766656,
+            "heapUsed": 8814424,
+            "rss": 56365056
+        },
+        "pid": 25092,
+        "uid": null,
+        "version": "v26.5.0"
+    },
+    "stack": "Error: [OrderManagment] error adding error Price must not exceed 100. Given price: 15\n    at OrderManagment.addOrder (C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts:27:19)\n    at Object.<anonymous> (C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts:22:19)\n    at Module.<anonymous> (node:internal/modules/cjs/loader:1934:14)\n    at Module._compile (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js:568:25)\n    at Module.m._compile (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-649468663976259.js:69:33)\n    at node:internal/modules/cjs/loader:2074:10\n    at require.extensions..jsx.require.extensions..js (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-649468663976259.js:114:20)\n    at require.extensions.<computed> (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-649468663976259.js:71:20)\n    at Object.nodeDevHook [as .ts] (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js:63:13)\n    at Module.load (node:internal/modules/cjs/loader:1656:32)",
+    "trace": [
+        {
+            "column": 19,
+            "file": "C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts",
+            "function": "OrderManagment.addOrder",
+            "line": 27,
+            "method": "addOrder",
+            "native": false
+        },
+        {
+            "column": 19,
+            "file": "C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts",
+            "function": null,
+            "line": 22,
+            "method": null,
+            "native": false
+        },
+        {
+            "column": 14,
+            "file": "node:internal/modules/cjs/loader",
+            "function": null,
+            "line": 1934,
+            "method": null,
+            "native": false
+        },
+        {
+            "column": 25,
+            "file": "C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js",
+            "function": "Module._compile",
+            "line": 568,
+            "method": "_compile",
+            "native": false
+        },
+        {
+            "column": 33,
+            "file": "C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-649468663976259.js",
+            "function": "Module.m._compile",
+            "line": 69,
+            "method": "_compile",
+            "native": false
+        },
+        {
+            "column": 10,
+            "file": "node:internal/modules/cjs/loader",
+            "function": null,
+            "line": 2074,
+            "method": null,
+            "native": false
+        },
+        {
+            "column": 20,
+            "file": "C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-649468663976259.js",
+            "function": "require.extensions..jsx.require.extensions..js",
+            "line": 114,
+            "method": ".js",
+            "native": false
+        },
+        {
+            "column": 20,
+            "file": "C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-649468663976259.js",
+            "function": "require.extensions.<computed>",
+            "line": 71,
+            "method": "<computed>",
+            "native": false
+        },
+        {
+            "column": 13,
+            "file": "C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js",
+            "function": "Object.nodeDevHook [as .ts]",
+            "line": 63,
+            "method": "ts]",
+            "native": false
+        },
+        {
+            "column": 32,
+            "file": "node:internal/modules/cjs/loader",
+            "function": "Module.load",
+            "line": 1656,
+            "method": "load",
+            "native": false
+        }
+    ]
+}
+{
+    "date": "Wed Sep 16 2026 20:17:58 GMT+0300 (Eastern European Summer Time)",
+    "error": {},
+    "exception": true,
+    "level": "error",
+    "message": "uncaughtException: [OrderManagment] error adding error Price must not exceed 100. Given price: 15\nError: [OrderManagment] error adding error Price must not exceed 100. Given price: 15\n    at OrderManagment.addOrder (C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts:27:19)\n    at Object.<anonymous> (C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts:22:19)\n    at Module.<anonymous> (node:internal/modules/cjs/loader:1934:14)\n    at Module._compile (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js:568:25)\n    at Module.m._compile (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-649468663976259.js:69:33)\n    at node:internal/modules/cjs/loader:2074:10\n    at require.extensions..jsx.require.extensions..js (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-649468663976259.js:114:20)\n    at require.extensions.<computed> (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-649468663976259.js:71:20)\n    at Object.nodeDevHook [as .ts] (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js:63:13)\n    at Module.load (node:internal/modules/cjs/loader:1656:32)",
+    "os": {
+        "loadavg": [
+            0,
+            0,
+            0
+        ],
+        "uptime": 97370.171
+    },
+    "process": {
+        "argv": [
+            "C:\\Program Files\\nodejs\\node.exe",
+            "src/index.ts"
+        ],
+        "cwd": "C:\\Users\\alaat\\Desktop\\SE2",
+        "execPath": "C:\\Program Files\\nodejs\\node.exe",
+        "gid": null,
+        "memoryUsage": {
+            "arrayBuffers": 157006,
+            "external": 2402044,
+            "heapTotal": 13766656,
+            "heapUsed": 8706960,
+            "rss": 57843712
+        },
+        "pid": 2160,
+        "uid": null,
+        "version": "v26.5.0"
+    },
+    "stack": "Error: [OrderManagment] error adding error Price must not exceed 100. Given price: 15\n    at OrderManagment.addOrder (C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts:27:19)\n    at Object.<anonymous> (C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts:22:19)\n    at Module.<anonymous> (node:internal/modules/cjs/loader:1934:14)\n    at Module._compile (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js:568:25)\n    at Module.m._compile (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-649468663976259.js:69:33)\n    at node:internal/modules/cjs/loader:2074:10\n    at require.extensions..jsx.require.extensions..js (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-649468663976259.js:114:20)\n    at require.extensions.<computed> (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-649468663976259.js:71:20)\n    at Object.nodeDevHook [as .ts] (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js:63:13)\n    at Module.load (node:internal/modules/cjs/loader:1656:32)",
+    "trace": [
+        {
+            "column": 19,
+            "file": "C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts",
+            "function": "OrderManagment.addOrder",
+            "line": 27,
+            "method": "addOrder",
+            "native": false
+        },
+        {
+            "column": 19,
+            "file": "C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts",
+            "function": null,
+            "line": 22,
+            "method": null,
+            "native": false
+        },
+        {
+            "column": 14,
+            "file": "node:internal/modules/cjs/loader",
+            "function": null,
+            "line": 1934,
+            "method": null,
+            "native": false
+        },
+        {
+            "column": 25,
+            "file": "C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js",
+            "function": "Module._compile",
+            "line": 568,
+            "method": "_compile",
+            "native": false
+        },
+        {
+            "column": 33,
+            "file": "C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-649468663976259.js",
+            "function": "Module.m._compile",
+            "line": 69,
+            "method": "_compile",
+            "native": false
+        },
+        {
+            "column": 10,
+            "file": "node:internal/modules/cjs/loader",
+            "function": null,
+            "line": 2074,
+            "method": null,
+            "native": false
+        },
+        {
+            "column": 20,
+            "file": "C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-649468663976259.js",
+            "function": "require.extensions..jsx.require.extensions..js",
+            "line": 114,
+            "method": ".js",
+            "native": false
+        },
+        {
+            "column": 20,
+            "file": "C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-649468663976259.js",
+            "function": "require.extensions.<computed>",
+            "line": 71,
+            "method": "<computed>",
+            "native": false
+        },
+        {
+            "column": 13,
+            "file": "C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js",
+            "function": "Object.nodeDevHook [as .ts]",
+            "line": 63,
+            "method": "ts]",
+            "native": false
+        },
+        {
+            "column": 32,
+            "file": "node:internal/modules/cjs/loader",
+            "function": "Module.load",
+            "line": 1656,
+            "method": "load",
+            "native": false
+        }
+    ]
+}
+{
+    "date": "Wed Sep 16 2026 20:18:01 GMT+0300 (Eastern European Summer Time)",
+    "error": {},
+    "exception": true,
+    "level": "error",
+    "message": "uncaughtException: [OrderManagment] error adding error Price must not exceed 100. Given price: 15\nError: [OrderManagment] error adding error Price must not exceed 100. Given price: 15\n    at OrderManagment.addOrder (C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts:27:19)\n    at Object.<anonymous> (C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts:22:19)\n    at Module.<anonymous> (node:internal/modules/cjs/loader:1934:14)\n    at Module._compile (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js:568:25)\n    at Module.m._compile (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-649468663976259.js:69:33)\n    at node:internal/modules/cjs/loader:2074:10\n    at require.extensions..jsx.require.extensions..js (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-649468663976259.js:114:20)\n    at require.extensions.<computed> (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-649468663976259.js:71:20)\n    at Object.nodeDevHook [as .ts] (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js:63:13)\n    at Module.load (node:internal/modules/cjs/loader:1656:32)",
+    "os": {
+        "loadavg": [
+            0,
+            0,
+            0
+        ],
+        "uptime": 97373.218
+    },
+    "process": {
+        "argv": [
+            "C:\\Program Files\\nodejs\\node.exe",
+            "src/index.ts"
+        ],
+        "cwd": "C:\\Users\\alaat\\Desktop\\SE2",
+        "execPath": "C:\\Program Files\\nodejs\\node.exe",
+        "gid": null,
+        "memoryUsage": {
+            "arrayBuffers": 157006,
+            "external": 2402044,
+            "heapTotal": 13766656,
+            "heapUsed": 8640672,
+            "rss": 57270272
+        },
+        "pid": 14980,
+        "uid": null,
+        "version": "v26.5.0"
+    },
+    "stack": "Error: [OrderManagment] error adding error Price must not exceed 100. Given price: 15\n    at OrderManagment.addOrder (C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts:27:19)\n    at Object.<anonymous> (C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts:22:19)\n    at Module.<anonymous> (node:internal/modules/cjs/loader:1934:14)\n    at Module._compile (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js:568:25)\n    at Module.m._compile (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-649468663976259.js:69:33)\n    at node:internal/modules/cjs/loader:2074:10\n    at require.extensions..jsx.require.extensions..js (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-649468663976259.js:114:20)\n    at require.extensions.<computed> (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-649468663976259.js:71:20)\n    at Object.nodeDevHook [as .ts] (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js:63:13)\n    at Module.load (node:internal/modules/cjs/loader:1656:32)",
+    "trace": [
+        {
+            "column": 19,
+            "file": "C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts",
+            "function": "OrderManagment.addOrder",
+            "line": 27,
+            "method": "addOrder",
+            "native": false
+        },
+        {
+            "column": 19,
+            "file": "C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts",
+            "function": null,
+            "line": 22,
+            "method": null,
+            "native": false
+        },
+        {
+            "column": 14,
+            "file": "node:internal/modules/cjs/loader",
+            "function": null,
+            "line": 1934,
+            "method": null,
+            "native": false
+        },
+        {
+            "column": 25,
+            "file": "C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js",
+            "function": "Module._compile",
+            "line": 568,
+            "method": "_compile",
+            "native": false
+        },
+        {
+            "column": 33,
+            "file": "C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-649468663976259.js",
+            "function": "Module.m._compile",
+            "line": 69,
+            "method": "_compile",
+            "native": false
+        },
+        {
+            "column": 10,
+            "file": "node:internal/modules/cjs/loader",
+            "function": null,
+            "line": 2074,
+            "method": null,
+            "native": false
+        },
+        {
+            "column": 20,
+            "file": "C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-649468663976259.js",
+            "function": "require.extensions..jsx.require.extensions..js",
+            "line": 114,
+            "method": ".js",
+            "native": false
+        },
+        {
+            "column": 20,
+            "file": "C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-649468663976259.js",
+            "function": "require.extensions.<computed>",
+            "line": 71,
+            "method": "<computed>",
+            "native": false
+        },
+        {
+            "column": 13,
+            "file": "C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js",
+            "function": "Object.nodeDevHook [as .ts]",
+            "line": 63,
+            "method": "ts]",
+            "native": false
+        },
+        {
+            "column": 32,
+            "file": "node:internal/modules/cjs/loader",
+            "function": "Module.load",
+            "line": 1656,
+            "method": "load",
+            "native": false
+        }
+    ]
+}
+{
+    "date": "Wed Sep 16 2026 20:18:21 GMT+0300 (Eastern European Summer Time)",
+    "error": {},
+    "exception": true,
+    "level": "error",
+    "message": "uncaughtException: [OrderManagment] error adding error Price must not exceed 100. Given price: 15\nError: [OrderManagment] error adding error Price must not exceed 100. Given price: 15\n    at OrderManagment.addOrder (C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts:27:19)\n    at Object.<anonymous> (C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts:22:19)\n    at Module.<anonymous> (node:internal/modules/cjs/loader:1934:14)\n    at Module._compile (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js:568:25)\n    at Module.m._compile (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-9492419378043493.js:69:33)\n    at node:internal/modules/cjs/loader:2074:10\n    at require.extensions..jsx.require.extensions..js (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-9492419378043493.js:114:20)\n    at require.extensions.<computed> (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-9492419378043493.js:71:20)\n    at Object.nodeDevHook [as .ts] (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js:63:13)\n    at Module.load (node:internal/modules/cjs/loader:1656:32)",
+    "os": {
+        "loadavg": [
+            0,
+            0,
+            0
+        ],
+        "uptime": 97393.89
+    },
+    "process": {
+        "argv": [
+            "C:\\Program Files\\nodejs\\node.exe",
+            "src/index.ts"
+        ],
+        "cwd": "C:\\Users\\alaat\\Desktop\\SE2",
+        "execPath": "C:\\Program Files\\nodejs\\node.exe",
+        "gid": null,
+        "memoryUsage": {
+            "arrayBuffers": 157006,
+            "external": 2402044,
+            "heapTotal": 14028800,
+            "heapUsed": 8821888,
+            "rss": 57159680
+        },
+        "pid": 26176,
+        "uid": null,
+        "version": "v26.5.0"
+    },
+    "stack": "Error: [OrderManagment] error adding error Price must not exceed 100. Given price: 15\n    at OrderManagment.addOrder (C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts:27:19)\n    at Object.<anonymous> (C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts:22:19)\n    at Module.<anonymous> (node:internal/modules/cjs/loader:1934:14)\n    at Module._compile (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js:568:25)\n    at Module.m._compile (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-9492419378043493.js:69:33)\n    at node:internal/modules/cjs/loader:2074:10\n    at require.extensions..jsx.require.extensions..js (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-9492419378043493.js:114:20)\n    at require.extensions.<computed> (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-9492419378043493.js:71:20)\n    at Object.nodeDevHook [as .ts] (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js:63:13)\n    at Module.load (node:internal/modules/cjs/loader:1656:32)",
+    "trace": [
+        {
+            "column": 19,
+            "file": "C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts",
+            "function": "OrderManagment.addOrder",
+            "line": 27,
+            "method": "addOrder",
+            "native": false
+        },
+        {
+            "column": 19,
+            "file": "C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts",
+            "function": null,
+            "line": 22,
+            "method": null,
+            "native": false
+        },
+        {
+            "column": 14,
+            "file": "node:internal/modules/cjs/loader",
+            "function": null,
+            "line": 1934,
+            "method": null,
+            "native": false
+        },
+        {
+            "column": 25,
+            "file": "C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js",
+            "function": "Module._compile",
+            "line": 568,
+            "method": "_compile",
+            "native": false
+        },
+        {
+            "column": 33,
+            "file": "C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-9492419378043493.js",
+            "function": "Module.m._compile",
+            "line": 69,
+            "method": "_compile",
+            "native": false
+        },
+        {
+            "column": 10,
+            "file": "node:internal/modules/cjs/loader",
+            "function": null,
+            "line": 2074,
+            "method": null,
+            "native": false
+        },
+        {
+            "column": 20,
+            "file": "C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-9492419378043493.js",
+            "function": "require.extensions..jsx.require.extensions..js",
+            "line": 114,
+            "method": ".js",
+            "native": false
+        },
+        {
+            "column": 20,
+            "file": "C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-9492419378043493.js",
+            "function": "require.extensions.<computed>",
+            "line": 71,
+            "method": "<computed>",
+            "native": false
+        },
+        {
+            "column": 13,
+            "file": "C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js",
+            "function": "Object.nodeDevHook [as .ts]",
+            "line": 63,
+            "method": "ts]",
+            "native": false
+        },
+        {
+            "column": 32,
+            "file": "node:internal/modules/cjs/loader",
+            "function": "Module.load",
+            "line": 1656,
+            "method": "load",
+            "native": false
+        }
+    ]
+}
+{
+    "date": "Wed Sep 16 2026 20:18:36 GMT+0300 (Eastern European Summer Time)",
+    "error": {},
+    "exception": true,
+    "level": "error",
+    "message": "uncaughtException: [OrderManagment] error adding error Price must not exceed 100. Given price: 15\nError: [OrderManagment] error adding error Price must not exceed 100. Given price: 15\n    at OrderManagment.addOrder (C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts:27:19)\n    at Object.<anonymous> (C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts:22:19)\n    at Module.<anonymous> (node:internal/modules/cjs/loader:1934:14)\n    at Module._compile (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js:568:25)\n    at Module.m._compile (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-9492419378043493.js:69:33)\n    at node:internal/modules/cjs/loader:2074:10\n    at require.extensions..jsx.require.extensions..js (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-9492419378043493.js:114:20)\n    at require.extensions.<computed> (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-9492419378043493.js:71:20)\n    at Object.nodeDevHook [as .ts] (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js:63:13)\n    at Module.load (node:internal/modules/cjs/loader:1656:32)",
+    "os": {
+        "loadavg": [
+            0,
+            0,
+            0
+        ],
+        "uptime": 97408.359
+    },
+    "process": {
+        "argv": [
+            "C:\\Program Files\\nodejs\\node.exe",
+            "src/index.ts"
+        ],
+        "cwd": "C:\\Users\\alaat\\Desktop\\SE2",
+        "execPath": "C:\\Program Files\\nodejs\\node.exe",
+        "gid": null,
+        "memoryUsage": {
+            "arrayBuffers": 157006,
+            "external": 2402044,
+            "heapTotal": 13504512,
+            "heapUsed": 8689248,
+            "rss": 57618432
+        },
+        "pid": 26516,
+        "uid": null,
+        "version": "v26.5.0"
+    },
+    "stack": "Error: [OrderManagment] error adding error Price must not exceed 100. Given price: 15\n    at OrderManagment.addOrder (C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts:27:19)\n    at Object.<anonymous> (C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts:22:19)\n    at Module.<anonymous> (node:internal/modules/cjs/loader:1934:14)\n    at Module._compile (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js:568:25)\n    at Module.m._compile (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-9492419378043493.js:69:33)\n    at node:internal/modules/cjs/loader:2074:10\n    at require.extensions..jsx.require.extensions..js (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-9492419378043493.js:114:20)\n    at require.extensions.<computed> (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-9492419378043493.js:71:20)\n    at Object.nodeDevHook [as .ts] (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js:63:13)\n    at Module.load (node:internal/modules/cjs/loader:1656:32)",
+    "trace": [
+        {
+            "column": 19,
+            "file": "C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts",
+            "function": "OrderManagment.addOrder",
+            "line": 27,
+            "method": "addOrder",
+            "native": false
+        },
+        {
+            "column": 19,
+            "file": "C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts",
+            "function": null,
+            "line": 22,
+            "method": null,
+            "native": false
+        },
+        {
+            "column": 14,
+            "file": "node:internal/modules/cjs/loader",
+            "function": null,
+            "line": 1934,
+            "method": null,
+            "native": false
+        },
+        {
+            "column": 25,
+            "file": "C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js",
+            "function": "Module._compile",
+            "line": 568,
+            "method": "_compile",
+            "native": false
+        },
+        {
+            "column": 33,
+            "file": "C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-9492419378043493.js",
+            "function": "Module.m._compile",
+            "line": 69,
+            "method": "_compile",
+            "native": false
+        },
+        {
+            "column": 10,
+            "file": "node:internal/modules/cjs/loader",
+            "function": null,
+            "line": 2074,
+            "method": null,
+            "native": false
+        },
+        {
+            "column": 20,
+            "file": "C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-9492419378043493.js",
+            "function": "require.extensions..jsx.require.extensions..js",
+            "line": 114,
+            "method": ".js",
+            "native": false
+        },
+        {
+            "column": 20,
+            "file": "C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-9492419378043493.js",
+            "function": "require.extensions.<computed>",
+            "line": 71,
+            "method": "<computed>",
+            "native": false
+        },
+        {
+            "column": 13,
+            "file": "C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js",
+            "function": "Object.nodeDevHook [as .ts]",
+            "line": 63,
+            "method": "ts]",
+            "native": false
+        },
+        {
+            "column": 32,
+            "file": "node:internal/modules/cjs/loader",
+            "function": "Module.load",
+            "line": 1656,
+            "method": "load",
+            "native": false
+        }
+    ]
+}{"date":"Wed Sep 16 2026 20:41:21 GMT+0300 (Eastern European Summer Time)","error":{},"exception":true,"level":"error","message":"uncaughtException: [OrderManagment] error adding error Price must be a positive number. Given price: -45\nError: [OrderManagment] error adding error Price must be a positive number. Given price: -45\n    at OrderManagment.addOrder (C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts:27:19)\n    at Object.<anonymous> (C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts:30:17)\n    at Module.<anonymous> (node:internal/modules/cjs/loader:1934:14)\n    at Module._compile (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js:568:25)\n    at Module.m._compile (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:69:33)\n    at node:internal/modules/cjs/loader:2074:10\n    at require.extensions..jsx.require.extensions..js (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:114:20)\n    at require.extensions.<computed> (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:71:20)\n    at Object.nodeDevHook [as .ts] (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js:63:13)\n    at Module.load (node:internal/modules/cjs/loader:1656:32)","os":{"loadavg":[0,0,0],"uptime":98773.062},"process":{"argv":["C:\\Program Files\\nodejs\\node.exe","src/index.ts"],"cwd":"C:\\Users\\alaat\\Desktop\\SE2","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":157013,"external":2402044,"heapTotal":14028800,"heapUsed":8720896,"rss":56819712},"pid":25116,"uid":null,"version":"v26.5.0"},"stack":"Error: [OrderManagment] error adding error Price must be a positive number. Given price: -45\n    at OrderManagment.addOrder (C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts:27:19)\n    at Object.<anonymous> (C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts:30:17)\n    at Module.<anonymous> (node:internal/modules/cjs/loader:1934:14)\n    at Module._compile (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js:568:25)\n    at Module.m._compile (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:69:33)\n    at node:internal/modules/cjs/loader:2074:10\n    at require.extensions..jsx.require.extensions..js (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:114:20)\n    at require.extensions.<computed> (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:71:20)\n    at Object.nodeDevHook [as .ts] (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js:63:13)\n    at Module.load (node:internal/modules/cjs/loader:1656:32)","trace":[{"column":19,"file":"C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts","function":"OrderManagment.addOrder","line":27,"method":"addOrder","native":false},{"column":17,"file":"C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts","function":null,"line":30,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":null,"line":1934,"method":null,"native":false},{"column":25,"file":"C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js","function":"Module._compile","line":568,"method":"_compile","native":false},{"column":33,"file":"C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js","function":"Module.m._compile","line":69,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":null,"line":2074,"method":null,"native":false},{"column":20,"file":"C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js","function":"require.extensions..jsx.require.extensions..js","line":114,"method":".js","native":false},{"column":20,"file":"C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js","function":"require.extensions.<computed>","line":71,"method":"<computed>","native":false},{"column":13,"file":"C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js","function":"Object.nodeDevHook [as .ts]","line":63,"method":"ts]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1656,"method":"load","native":false}]}
+{"date":"Wed Sep 16 2026 20:42:22 GMT+0300 (Eastern European Summer Time)","error":{},"exception":true,"level":"error","message":"uncaughtException: [OrderManagment] error adding error Price must be a positive number. Given price: -45\nError: [OrderManagment] error adding error Price must be a positive number. Given price: -45\n    at OrderManagment.addOrder (C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts:27:19)\n    at Object.<anonymous> (C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts:30:17)\n    at Module.<anonymous> (node:internal/modules/cjs/loader:1934:14)\n    at Module._compile (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js:568:25)\n    at Module.m._compile (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:69:33)\n    at node:internal/modules/cjs/loader:2074:10\n    at require.extensions..jsx.require.extensions..js (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:114:20)\n    at require.extensions.<computed> (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:71:20)\n    at Object.nodeDevHook [as .ts] (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js:63:13)\n    at Module.load (node:internal/modules/cjs/loader:1656:32)","os":{"loadavg":[0,0,0],"uptime":98834.375},"process":{"argv":["C:\\Program Files\\nodejs\\node.exe","src/index.ts"],"cwd":"C:\\Users\\alaat\\Desktop\\SE2","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":157013,"external":2402044,"heapTotal":14290944,"heapUsed":8728536,"rss":57139200},"pid":24988,"uid":null,"version":"v26.5.0"},"stack":"Error: [OrderManagment] error adding error Price must be a positive number. Given price: -45\n    at OrderManagment.addOrder (C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts:27:19)\n    at Object.<anonymous> (C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts:30:17)\n    at Module.<anonymous> (node:internal/modules/cjs/loader:1934:14)\n    at Module._compile (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js:568:25)\n    at Module.m._compile (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:69:33)\n    at node:internal/modules/cjs/loader:2074:10\n    at require.extensions..jsx.require.extensions..js (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:114:20)\n    at require.extensions.<computed> (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:71:20)\n    at Object.nodeDevHook [as .ts] (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js:63:13)\n    at Module.load (node:internal/modules/cjs/loader:1656:32)","trace":[{"column":19,"file":"C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts","function":"OrderManagment.addOrder","line":27,"method":"addOrder","native":false},{"column":17,"file":"C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts","function":null,"line":30,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":null,"line":1934,"method":null,"native":false},{"column":25,"file":"C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js","function":"Module._compile","line":568,"method":"_compile","native":false},{"column":33,"file":"C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js","function":"Module.m._compile","line":69,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":null,"line":2074,"method":null,"native":false},{"column":20,"file":"C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js","function":"require.extensions..jsx.require.extensions..js","line":114,"method":".js","native":false},{"column":20,"file":"C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js","function":"require.extensions.<computed>","line":71,"method":"<computed>","native":false},{"column":13,"file":"C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js","function":"Object.nodeDevHook [as .ts]","line":63,"method":"ts]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1656,"method":"load","native":false}]}
+{"date":"Wed Sep 16 2026 20:42:47 GMT+0300 (Eastern European Summer Time)","error":{},"exception":true,"level":"error","message":"uncaughtException: [OrderManagment] error adding error Price must be a positive number. Given price: -45\nError: [OrderManagment] error adding error Price must be a positive number. Given price: -45\n    at OrderManagment.addOrder (C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts:27:19)\n    at Object.<anonymous> (C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts:30:17)\n    at Module.<anonymous> (node:internal/modules/cjs/loader:1934:14)\n    at Module._compile (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js:568:25)\n    at Module.m._compile (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:69:33)\n    at node:internal/modules/cjs/loader:2074:10\n    at require.extensions..jsx.require.extensions..js (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:114:20)\n    at require.extensions.<computed> (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:71:20)\n    at Object.nodeDevHook [as .ts] (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js:63:13)\n    at Module.load (node:internal/modules/cjs/loader:1656:32)","os":{"loadavg":[0,0,0],"uptime":98859.859},"process":{"argv":["C:\\Program Files\\nodejs\\node.exe","src/index.ts"],"cwd":"C:\\Users\\alaat\\Desktop\\SE2","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":157411,"external":2402044,"heapTotal":14290944,"heapUsed":8902336,"rss":57176064},"pid":22452,"uid":null,"version":"v26.5.0"},"stack":"Error: [OrderManagment] error adding error Price must be a positive number. Given price: -45\n    at OrderManagment.addOrder (C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts:27:19)\n    at Object.<anonymous> (C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts:30:17)\n    at Module.<anonymous> (node:internal/modules/cjs/loader:1934:14)\n    at Module._compile (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js:568:25)\n    at Module.m._compile (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:69:33)\n    at node:internal/modules/cjs/loader:2074:10\n    at require.extensions..jsx.require.extensions..js (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:114:20)\n    at require.extensions.<computed> (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:71:20)\n    at Object.nodeDevHook [as .ts] (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js:63:13)\n    at Module.load (node:internal/modules/cjs/loader:1656:32)","trace":[{"column":19,"file":"C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts","function":"OrderManagment.addOrder","line":27,"method":"addOrder","native":false},{"column":17,"file":"C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts","function":null,"line":30,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":null,"line":1934,"method":null,"native":false},{"column":25,"file":"C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js","function":"Module._compile","line":568,"method":"_compile","native":false},{"column":33,"file":"C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js","function":"Module.m._compile","line":69,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":null,"line":2074,"method":null,"native":false},{"column":20,"file":"C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js","function":"require.extensions..jsx.require.extensions..js","line":114,"method":".js","native":false},{"column":20,"file":"C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js","function":"require.extensions.<computed>","line":71,"method":"<computed>","native":false},{"column":13,"file":"C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js","function":"Object.nodeDevHook [as .ts]","line":63,"method":"ts]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1656,"method":"load","native":false}]}
+{"date":"Wed Sep 16 2026 20:42:59 GMT+0300 (Eastern European Summer Time)","error":{},"exception":true,"level":"error","message":"uncaughtException: [OrderManagment] error adding error Price must be a positive number. Given price: -45\nError: [OrderManagment] error adding error Price must be a positive number. Given price: -45\n    at OrderManagment.addOrder (C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts:27:19)\n    at Object.<anonymous> (C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts:30:17)\n    at Module.<anonymous> (node:internal/modules/cjs/loader:1934:14)\n    at Module._compile (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js:568:25)\n    at Module.m._compile (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:69:33)\n    at node:internal/modules/cjs/loader:2074:10\n    at require.extensions..jsx.require.extensions..js (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:114:20)\n    at require.extensions.<computed> (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:71:20)\n    at Object.nodeDevHook [as .ts] (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js:63:13)\n    at Module.load (node:internal/modules/cjs/loader:1656:32)","os":{"loadavg":[0,0,0],"uptime":98871.671},"process":{"argv":["C:\\Program Files\\nodejs\\node.exe","src/index.ts"],"cwd":"C:\\Users\\alaat\\Desktop\\SE2","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":157411,"external":2402044,"heapTotal":14028800,"heapUsed":8934192,"rss":57626624},"pid":3664,"uid":null,"version":"v26.5.0"},"stack":"Error: [OrderManagment] error adding error Price must be a positive number. Given price: -45\n    at OrderManagment.addOrder (C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts:27:19)\n    at Object.<anonymous> (C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts:30:17)\n    at Module.<anonymous> (node:internal/modules/cjs/loader:1934:14)\n    at Module._compile (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js:568:25)\n    at Module.m._compile (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:69:33)\n    at node:internal/modules/cjs/loader:2074:10\n    at require.extensions..jsx.require.extensions..js (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:114:20)\n    at require.extensions.<computed> (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:71:20)\n    at Object.nodeDevHook [as .ts] (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js:63:13)\n    at Module.load (node:internal/modules/cjs/loader:1656:32)","trace":[{"column":19,"file":"C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts","function":"OrderManagment.addOrder","line":27,"method":"addOrder","native":false},{"column":17,"file":"C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts","function":null,"line":30,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":null,"line":1934,"method":null,"native":false},{"column":25,"file":"C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js","function":"Module._compile","line":568,"method":"_compile","native":false},{"column":33,"file":"C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js","function":"Module.m._compile","line":69,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":null,"line":2074,"method":null,"native":false},{"column":20,"file":"C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js","function":"require.extensions..jsx.require.extensions..js","line":114,"method":".js","native":false},{"column":20,"file":"C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js","function":"require.extensions.<computed>","line":71,"method":"<computed>","native":false},{"column":13,"file":"C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js","function":"Object.nodeDevHook [as .ts]","line":63,"method":"ts]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1656,"method":"load","native":false}]}
+{"date":"Wed Sep 16 2026 20:43:15 GMT+0300 (Eastern European Summer Time)","error":{},"exception":true,"level":"error","message":"uncaughtException: [OrderManagment] error adding error Price must be a positive number. Given price: -45\nError: [OrderManagment] error adding error Price must be a positive number. Given price: -45\n    at OrderManagment.addOrder (C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts:27:19)\n    at Object.<anonymous> (C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts:30:17)\n    at Module.<anonymous> (node:internal/modules/cjs/loader:1934:14)\n    at Module._compile (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js:568:25)\n    at Module.m._compile (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:69:33)\n    at node:internal/modules/cjs/loader:2074:10\n    at require.extensions..jsx.require.extensions..js (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:114:20)\n    at require.extensions.<computed> (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:71:20)\n    at Object.nodeDevHook [as .ts] (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js:63:13)\n    at Module.load (node:internal/modules/cjs/loader:1656:32)","os":{"loadavg":[0,0,0],"uptime":98887.765},"process":{"argv":["C:\\Program Files\\nodejs\\node.exe","src/index.ts"],"cwd":"C:\\Users\\alaat\\Desktop\\SE2","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":157411,"external":2402044,"heapTotal":14028800,"heapUsed":8882264,"rss":57536512},"pid":4644,"uid":null,"version":"v26.5.0"},"stack":"Error: [OrderManagment] error adding error Price must be a positive number. Given price: -45\n    at OrderManagment.addOrder (C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts:27:19)\n    at Object.<anonymous> (C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts:30:17)\n    at Module.<anonymous> (node:internal/modules/cjs/loader:1934:14)\n    at Module._compile (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js:568:25)\n    at Module.m._compile (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:69:33)\n    at node:internal/modules/cjs/loader:2074:10\n    at require.extensions..jsx.require.extensions..js (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:114:20)\n    at require.extensions.<computed> (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:71:20)\n    at Object.nodeDevHook [as .ts] (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js:63:13)\n    at Module.load (node:internal/modules/cjs/loader:1656:32)","trace":[{"column":19,"file":"C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts","function":"OrderManagment.addOrder","line":27,"method":"addOrder","native":false},{"column":17,"file":"C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts","function":null,"line":30,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":null,"line":1934,"method":null,"native":false},{"column":25,"file":"C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js","function":"Module._compile","line":568,"method":"_compile","native":false},{"column":33,"file":"C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js","function":"Module.m._compile","line":69,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":null,"line":2074,"method":null,"native":false},{"column":20,"file":"C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js","function":"require.extensions..jsx.require.extensions..js","line":114,"method":".js","native":false},{"column":20,"file":"C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js","function":"require.extensions.<computed>","line":71,"method":"<computed>","native":false},{"column":13,"file":"C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js","function":"Object.nodeDevHook [as .ts]","line":63,"method":"ts]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1656,"method":"load","native":false}]}
+{"date":"Wed Sep 16 2026 20:43:48 GMT+0300 (Eastern European Summer Time)","error":{},"exception":true,"level":"error","message":"uncaughtException: [OrderManagment] error adding error Price must be a positive number. Given price: -45\nError: [OrderManagment] error adding error Price must be a positive number. Given price: -45\n    at OrderManagment.addOrder (C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts:27:19)\n    at Object.<anonymous> (C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts:30:17)\n    at Module.<anonymous> (node:internal/modules/cjs/loader:1934:14)\n    at Module._compile (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js:568:25)\n    at Module.m._compile (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:69:33)\n    at node:internal/modules/cjs/loader:2074:10\n    at require.extensions..jsx.require.extensions..js (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:114:20)\n    at require.extensions.<computed> (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:71:20)\n    at Object.nodeDevHook [as .ts] (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js:63:13)\n    at Module.load (node:internal/modules/cjs/loader:1656:32)","os":{"loadavg":[0,0,0],"uptime":98920.14},"process":{"argv":["C:\\Program Files\\nodejs\\node.exe","src/index.ts"],"cwd":"C:\\Users\\alaat\\Desktop\\SE2","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":157410,"external":2402044,"heapTotal":13766656,"heapUsed":8858960,"rss":57946112},"pid":28988,"uid":null,"version":"v26.5.0"},"stack":"Error: [OrderManagment] error adding error Price must be a positive number. Given price: -45\n    at OrderManagment.addOrder (C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts:27:19)\n    at Object.<anonymous> (C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts:30:17)\n    at Module.<anonymous> (node:internal/modules/cjs/loader:1934:14)\n    at Module._compile (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js:568:25)\n    at Module.m._compile (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:69:33)\n    at node:internal/modules/cjs/loader:2074:10\n    at require.extensions..jsx.require.extensions..js (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:114:20)\n    at require.extensions.<computed> (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:71:20)\n    at Object.nodeDevHook [as .ts] (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js:63:13)\n    at Module.load (node:internal/modules/cjs/loader:1656:32)","trace":[{"column":19,"file":"C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts","function":"OrderManagment.addOrder","line":27,"method":"addOrder","native":false},{"column":17,"file":"C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts","function":null,"line":30,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":null,"line":1934,"method":null,"native":false},{"column":25,"file":"C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js","function":"Module._compile","line":568,"method":"_compile","native":false},{"column":33,"file":"C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js","function":"Module.m._compile","line":69,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":null,"line":2074,"method":null,"native":false},{"column":20,"file":"C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js","function":"require.extensions..jsx.require.extensions..js","line":114,"method":".js","native":false},{"column":20,"file":"C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js","function":"require.extensions.<computed>","line":71,"method":"<computed>","native":false},{"column":13,"file":"C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js","function":"Object.nodeDevHook [as .ts]","line":63,"method":"ts]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1656,"method":"load","native":false}]}
+{"date":"Wed Sep 16 2026 20:43:55 GMT+0300 (Eastern European Summer Time)","error":{},"exception":true,"level":"error","message":"uncaughtException: [OrderManagment] error adding error Price must be a positive number. Given price: -45\nError: [OrderManagment] error adding error Price must be a positive number. Given price: -45\n    at OrderManagment.addOrder (C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts:27:19)\n    at Object.<anonymous> (C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts:30:17)\n    at Module.<anonymous> (node:internal/modules/cjs/loader:1934:14)\n    at Module._compile (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js:568:25)\n    at Module.m._compile (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:69:33)\n    at node:internal/modules/cjs/loader:2074:10\n    at require.extensions..jsx.require.extensions..js (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:114:20)\n    at require.extensions.<computed> (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:71:20)\n    at Object.nodeDevHook [as .ts] (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js:63:13)\n    at Module.load (node:internal/modules/cjs/loader:1656:32)","os":{"loadavg":[0,0,0],"uptime":98927.781},"process":{"argv":["C:\\Program Files\\nodejs\\node.exe","src/index.ts"],"cwd":"C:\\Users\\alaat\\Desktop\\SE2","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":157410,"external":2402044,"heapTotal":14028800,"heapUsed":8949000,"rss":57315328},"pid":3416,"uid":null,"version":"v26.5.0"},"stack":"Error: [OrderManagment] error adding error Price must be a positive number. Given price: -45\n    at OrderManagment.addOrder (C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts:27:19)\n    at Object.<anonymous> (C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts:30:17)\n    at Module.<anonymous> (node:internal/modules/cjs/loader:1934:14)\n    at Module._compile (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js:568:25)\n    at Module.m._compile (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:69:33)\n    at node:internal/modules/cjs/loader:2074:10\n    at require.extensions..jsx.require.extensions..js (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:114:20)\n    at require.extensions.<computed> (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:71:20)\n    at Object.nodeDevHook [as .ts] (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js:63:13)\n    at Module.load (node:internal/modules/cjs/loader:1656:32)","trace":[{"column":19,"file":"C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts","function":"OrderManagment.addOrder","line":27,"method":"addOrder","native":false},{"column":17,"file":"C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts","function":null,"line":30,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":null,"line":1934,"method":null,"native":false},{"column":25,"file":"C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js","function":"Module._compile","line":568,"method":"_compile","native":false},{"column":33,"file":"C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js","function":"Module.m._compile","line":69,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":null,"line":2074,"method":null,"native":false},{"column":20,"file":"C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js","function":"require.extensions..jsx.require.extensions..js","line":114,"method":".js","native":false},{"column":20,"file":"C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js","function":"require.extensions.<computed>","line":71,"method":"<computed>","native":false},{"column":13,"file":"C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js","function":"Object.nodeDevHook [as .ts]","line":63,"method":"ts]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1656,"method":"load","native":false}]}
+{"date":"Wed Sep 16 2026 20:44:31 GMT+0300 (Eastern European Summer Time)","error":{},"exception":true,"level":"error","message":"uncaughtException: [OrderManagment] error adding error Price must be a positive number. Given price: -45\nError: [OrderManagment] error adding error Price must be a positive number. Given price: -45\n    at OrderManagment.addOrder (C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts:27:19)\n    at Object.<anonymous> (C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts:30:17)\n    at Module.<anonymous> (node:internal/modules/cjs/loader:1934:14)\n    at Module._compile (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js:568:25)\n    at Module.m._compile (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:69:33)\n    at node:internal/modules/cjs/loader:2074:10\n    at require.extensions..jsx.require.extensions..js (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:114:20)\n    at require.extensions.<computed> (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:71:20)\n    at Object.nodeDevHook [as .ts] (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js:63:13)\n    at Module.load (node:internal/modules/cjs/loader:1656:32)","os":{"loadavg":[0,0,0],"uptime":98963.734},"process":{"argv":["C:\\Program Files\\nodejs\\node.exe","src/index.ts"],"cwd":"C:\\Users\\alaat\\Desktop\\SE2","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":157410,"external":2402044,"heapTotal":14553088,"heapUsed":8926584,"rss":57671680},"pid":25972,"uid":null,"version":"v26.5.0"},"stack":"Error: [OrderManagment] error adding error Price must be a positive number. Given price: -45\n    at OrderManagment.addOrder (C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts:27:19)\n    at Object.<anonymous> (C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts:30:17)\n    at Module.<anonymous> (node:internal/modules/cjs/loader:1934:14)\n    at Module._compile (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js:568:25)\n    at Module.m._compile (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:69:33)\n    at node:internal/modules/cjs/loader:2074:10\n    at require.extensions..jsx.require.extensions..js (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:114:20)\n    at require.extensions.<computed> (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:71:20)\n    at Object.nodeDevHook [as .ts] (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js:63:13)\n    at Module.load (node:internal/modules/cjs/loader:1656:32)","trace":[{"column":19,"file":"C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts","function":"OrderManagment.addOrder","line":27,"method":"addOrder","native":false},{"column":17,"file":"C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts","function":null,"line":30,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":null,"line":1934,"method":null,"native":false},{"column":25,"file":"C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js","function":"Module._compile","line":568,"method":"_compile","native":false},{"column":33,"file":"C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js","function":"Module.m._compile","line":69,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":null,"line":2074,"method":null,"native":false},{"column":20,"file":"C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js","function":"require.extensions..jsx.require.extensions..js","line":114,"method":".js","native":false},{"column":20,"file":"C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js","function":"require.extensions.<computed>","line":71,"method":"<computed>","native":false},{"column":13,"file":"C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js","function":"Object.nodeDevHook [as .ts]","line":63,"method":"ts]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1656,"method":"load","native":false}]}
+{"date":"Wed Sep 16 2026 20:44:33 GMT+0300 (Eastern European Summer Time)","error":{},"exception":true,"level":"error","message":"uncaughtException: [OrderManagment] error adding error Price must be a positive number. Given price: -45\nError: [OrderManagment] error adding error Price must be a positive number. Given price: -45\n    at OrderManagment.addOrder (C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts:27:19)\n    at Object.<anonymous> (C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts:30:17)\n    at Module.<anonymous> (node:internal/modules/cjs/loader:1934:14)\n    at Module._compile (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js:568:25)\n    at Module.m._compile (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:69:33)\n    at node:internal/modules/cjs/loader:2074:10\n    at require.extensions..jsx.require.extensions..js (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:114:20)\n    at require.extensions.<computed> (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:71:20)\n    at Object.nodeDevHook [as .ts] (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js:63:13)\n    at Module.load (node:internal/modules/cjs/loader:1656:32)","os":{"loadavg":[0,0,0],"uptime":98964.937},"process":{"argv":["C:\\Program Files\\nodejs\\node.exe","src/index.ts"],"cwd":"C:\\Users\\alaat\\Desktop\\SE2","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":157410,"external":2402044,"heapTotal":14028800,"heapUsed":8918648,"rss":57311232},"pid":26672,"uid":null,"version":"v26.5.0"},"stack":"Error: [OrderManagment] error adding error Price must be a positive number. Given price: -45\n    at OrderManagment.addOrder (C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts:27:19)\n    at Object.<anonymous> (C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts:30:17)\n    at Module.<anonymous> (node:internal/modules/cjs/loader:1934:14)\n    at Module._compile (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js:568:25)\n    at Module.m._compile (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:69:33)\n    at node:internal/modules/cjs/loader:2074:10\n    at require.extensions..jsx.require.extensions..js (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:114:20)\n    at require.extensions.<computed> (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:71:20)\n    at Object.nodeDevHook [as .ts] (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js:63:13)\n    at Module.load (node:internal/modules/cjs/loader:1656:32)","trace":[{"column":19,"file":"C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts","function":"OrderManagment.addOrder","line":27,"method":"addOrder","native":false},{"column":17,"file":"C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts","function":null,"line":30,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":null,"line":1934,"method":null,"native":false},{"column":25,"file":"C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js","function":"Module._compile","line":568,"method":"_compile","native":false},{"column":33,"file":"C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js","function":"Module.m._compile","line":69,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":null,"line":2074,"method":null,"native":false},{"column":20,"file":"C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js","function":"require.extensions..jsx.require.extensions..js","line":114,"method":".js","native":false},{"column":20,"file":"C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js","function":"require.extensions.<computed>","line":71,"method":"<computed>","native":false},{"column":13,"file":"C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js","function":"Object.nodeDevHook [as .ts]","line":63,"method":"ts]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1656,"method":"load","native":false}]}
+{"date":"Wed Sep 16 2026 20:44:47 GMT+0300 (Eastern European Summer Time)","error":{},"exception":true,"level":"error","message":"uncaughtException: [OrderManagment] error adding error Price must be a positive number. Given price: -45\nError: [OrderManagment] error adding error Price must be a positive number. Given price: -45\n    at OrderManagment.addOrder (C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts:27:19)\n    at Object.<anonymous> (C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts:30:17)\n    at Module.<anonymous> (node:internal/modules/cjs/loader:1934:14)\n    at Module._compile (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js:568:25)\n    at Module.m._compile (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:69:33)\n    at node:internal/modules/cjs/loader:2074:10\n    at require.extensions..jsx.require.extensions..js (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:114:20)\n    at require.extensions.<computed> (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:71:20)\n    at Object.nodeDevHook [as .ts] (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js:63:13)\n    at Module.load (node:internal/modules/cjs/loader:1656:32)","os":{"loadavg":[0,0,0],"uptime":98979.203},"process":{"argv":["C:\\Program Files\\nodejs\\node.exe","src/index.ts"],"cwd":"C:\\Users\\alaat\\Desktop\\SE2","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":157507,"external":2402044,"heapTotal":14553088,"heapUsed":8913576,"rss":57233408},"pid":16128,"uid":null,"version":"v26.5.0"},"stack":"Error: [OrderManagment] error adding error Price must be a positive number. Given price: -45\n    at OrderManagment.addOrder (C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts:27:19)\n    at Object.<anonymous> (C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts:30:17)\n    at Module.<anonymous> (node:internal/modules/cjs/loader:1934:14)\n    at Module._compile (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js:568:25)\n    at Module.m._compile (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:69:33)\n    at node:internal/modules/cjs/loader:2074:10\n    at require.extensions..jsx.require.extensions..js (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:114:20)\n    at require.extensions.<computed> (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:71:20)\n    at Object.nodeDevHook [as .ts] (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js:63:13)\n    at Module.load (node:internal/modules/cjs/loader:1656:32)","trace":[{"column":19,"file":"C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts","function":"OrderManagment.addOrder","line":27,"method":"addOrder","native":false},{"column":17,"file":"C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts","function":null,"line":30,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":null,"line":1934,"method":null,"native":false},{"column":25,"file":"C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js","function":"Module._compile","line":568,"method":"_compile","native":false},{"column":33,"file":"C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js","function":"Module.m._compile","line":69,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":null,"line":2074,"method":null,"native":false},{"column":20,"file":"C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js","function":"require.extensions..jsx.require.extensions..js","line":114,"method":".js","native":false},{"column":20,"file":"C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js","function":"require.extensions.<computed>","line":71,"method":"<computed>","native":false},{"column":13,"file":"C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js","function":"Object.nodeDevHook [as .ts]","line":63,"method":"ts]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1656,"method":"load","native":false}]}
+{"date":"Wed Sep 16 2026 20:45:06 GMT+0300 (Eastern European Summer Time)","error":{},"exception":true,"level":"error","message":"uncaughtException: [OrderManagment] error adding error Price must be a positive number. Given price: -45\nError: [OrderManagment] error adding error Price must be a positive number. Given price: -45\n    at OrderManagment.addOrder (C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts:27:19)\n    at Object.<anonymous> (C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts:30:17)\n    at Module.<anonymous> (node:internal/modules/cjs/loader:1934:14)\n    at Module._compile (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js:568:25)\n    at Module.m._compile (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:69:33)\n    at node:internal/modules/cjs/loader:2074:10\n    at require.extensions..jsx.require.extensions..js (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:114:20)\n    at require.extensions.<computed> (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:71:20)\n    at Object.nodeDevHook [as .ts] (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js:63:13)\n    at Module.load (node:internal/modules/cjs/loader:1656:32)","os":{"loadavg":[0,0,0],"uptime":98998.171},"process":{"argv":["C:\\Program Files\\nodejs\\node.exe","src/index.ts"],"cwd":"C:\\Users\\alaat\\Desktop\\SE2","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":157507,"external":2402044,"heapTotal":14553088,"heapUsed":8944368,"rss":57352192},"pid":21596,"uid":null,"version":"v26.5.0"},"stack":"Error: [OrderManagment] error adding error Price must be a positive number. Given price: -45\n    at OrderManagment.addOrder (C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts:27:19)\n    at Object.<anonymous> (C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts:30:17)\n    at Module.<anonymous> (node:internal/modules/cjs/loader:1934:14)\n    at Module._compile (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js:568:25)\n    at Module.m._compile (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:69:33)\n    at node:internal/modules/cjs/loader:2074:10\n    at require.extensions..jsx.require.extensions..js (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:114:20)\n    at require.extensions.<computed> (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:71:20)\n    at Object.nodeDevHook [as .ts] (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js:63:13)\n    at Module.load (node:internal/modules/cjs/loader:1656:32)","trace":[{"column":19,"file":"C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts","function":"OrderManagment.addOrder","line":27,"method":"addOrder","native":false},{"column":17,"file":"C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts","function":null,"line":30,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":null,"line":1934,"method":null,"native":false},{"column":25,"file":"C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js","function":"Module._compile","line":568,"method":"_compile","native":false},{"column":33,"file":"C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js","function":"Module.m._compile","line":69,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":null,"line":2074,"method":null,"native":false},{"column":20,"file":"C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js","function":"require.extensions..jsx.require.extensions..js","line":114,"method":".js","native":false},{"column":20,"file":"C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js","function":"require.extensions.<computed>","line":71,"method":"<computed>","native":false},{"column":13,"file":"C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js","function":"Object.nodeDevHook [as .ts]","line":63,"method":"ts]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1656,"method":"load","native":false}]}
+{"date":"Wed Sep 16 2026 20:45:08 GMT+0300 (Eastern European Summer Time)","error":{},"exception":true,"level":"error","message":"uncaughtException: [OrderManagment] error adding error Price must be a positive number. Given price: -45\nError: [OrderManagment] error adding error Price must be a positive number. Given price: -45\n    at OrderManagment.addOrder (C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts:27:19)\n    at Object.<anonymous> (C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts:30:17)\n    at Module.<anonymous> (node:internal/modules/cjs/loader:1934:14)\n    at Module._compile (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js:568:25)\n    at Module.m._compile (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:69:33)\n    at node:internal/modules/cjs/loader:2074:10\n    at require.extensions..jsx.require.extensions..js (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:114:20)\n    at require.extensions.<computed> (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:71:20)\n    at Object.nodeDevHook [as .ts] (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js:63:13)\n    at Module.load (node:internal/modules/cjs/loader:1656:32)","os":{"loadavg":[0,0,0],"uptime":99000.234},"process":{"argv":["C:\\Program Files\\nodejs\\node.exe","src/index.ts"],"cwd":"C:\\Users\\alaat\\Desktop\\SE2","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":157507,"external":2402044,"heapTotal":14290944,"heapUsed":8969896,"rss":57049088},"pid":28168,"uid":null,"version":"v26.5.0"},"stack":"Error: [OrderManagment] error adding error Price must be a positive number. Given price: -45\n    at OrderManagment.addOrder (C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts:27:19)\n    at Object.<anonymous> (C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts:30:17)\n    at Module.<anonymous> (node:internal/modules/cjs/loader:1934:14)\n    at Module._compile (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js:568:25)\n    at Module.m._compile (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:69:33)\n    at node:internal/modules/cjs/loader:2074:10\n    at require.extensions..jsx.require.extensions..js (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:114:20)\n    at require.extensions.<computed> (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:71:20)\n    at Object.nodeDevHook [as .ts] (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js:63:13)\n    at Module.load (node:internal/modules/cjs/loader:1656:32)","trace":[{"column":19,"file":"C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts","function":"OrderManagment.addOrder","line":27,"method":"addOrder","native":false},{"column":17,"file":"C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts","function":null,"line":30,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":null,"line":1934,"method":null,"native":false},{"column":25,"file":"C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js","function":"Module._compile","line":568,"method":"_compile","native":false},{"column":33,"file":"C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js","function":"Module.m._compile","line":69,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":null,"line":2074,"method":null,"native":false},{"column":20,"file":"C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js","function":"require.extensions..jsx.require.extensions..js","line":114,"method":".js","native":false},{"column":20,"file":"C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js","function":"require.extensions.<computed>","line":71,"method":"<computed>","native":false},{"column":13,"file":"C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js","function":"Object.nodeDevHook [as .ts]","line":63,"method":"ts]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1656,"method":"load","native":false}]}
+{"date":"Wed Sep 16 2026 20:47:58 GMT+0300 (Eastern European Summer Time)","error":{},"exception":true,"level":"error","message":"uncaughtException: [OrderManagment] error adding error Price must be a positive number. Given price: -45\nError: [OrderManagment] error adding error Price must be a positive number. Given price: -45\n    at OrderManagment.addOrder (C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts:27:19)\n    at Object.<anonymous> (C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts:30:17)\n    at Module.<anonymous> (node:internal/modules/cjs/loader:1934:14)\n    at Module._compile (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js:568:25)\n    at Module.m._compile (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:69:33)\n    at node:internal/modules/cjs/loader:2074:10\n    at require.extensions..jsx.require.extensions..js (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:114:20)\n    at require.extensions.<computed> (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:71:20)\n    at Object.nodeDevHook [as .ts] (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js:63:13)\n    at Module.load (node:internal/modules/cjs/loader:1656:32)","os":{"loadavg":[0,0,0],"uptime":99170.375},"process":{"argv":["C:\\Program Files\\nodejs\\node.exe","src/index.ts"],"cwd":"C:\\Users\\alaat\\Desktop\\SE2","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":157604,"external":2402044,"heapTotal":13766656,"heapUsed":8926752,"rss":57880576},"pid":26256,"uid":null,"version":"v26.5.0"},"stack":"Error: [OrderManagment] error adding error Price must be a positive number. Given price: -45\n    at OrderManagment.addOrder (C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts:27:19)\n    at Object.<anonymous> (C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts:30:17)\n    at Module.<anonymous> (node:internal/modules/cjs/loader:1934:14)\n    at Module._compile (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js:568:25)\n    at Module.m._compile (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:69:33)\n    at node:internal/modules/cjs/loader:2074:10\n    at require.extensions..jsx.require.extensions..js (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:114:20)\n    at require.extensions.<computed> (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:71:20)\n    at Object.nodeDevHook [as .ts] (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js:63:13)\n    at Module.load (node:internal/modules/cjs/loader:1656:32)","trace":[{"column":19,"file":"C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts","function":"OrderManagment.addOrder","line":27,"method":"addOrder","native":false},{"column":17,"file":"C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts","function":null,"line":30,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":null,"line":1934,"method":null,"native":false},{"column":25,"file":"C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js","function":"Module._compile","line":568,"method":"_compile","native":false},{"column":33,"file":"C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js","function":"Module.m._compile","line":69,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":null,"line":2074,"method":null,"native":false},{"column":20,"file":"C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js","function":"require.extensions..jsx.require.extensions..js","line":114,"method":".js","native":false},{"column":20,"file":"C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js","function":"require.extensions.<computed>","line":71,"method":"<computed>","native":false},{"column":13,"file":"C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js","function":"Object.nodeDevHook [as .ts]","line":63,"method":"ts]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1656,"method":"load","native":false}]}
+{"date":"Wed Sep 16 2026 20:49:13 GMT+0300 (Eastern European Summer Time)","error":{},"exception":true,"level":"error","message":"uncaughtException: [OrderManagment] error adding error Price must be a positive number. Given price: -45\nError: [OrderManagment] error adding error Price must be a positive number. Given price: -45\n    at OrderManagment.addOrder (C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts:27:19)\n    at Object.<anonymous> (C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts:30:17)\n    at Module.<anonymous> (node:internal/modules/cjs/loader:1934:14)\n    at Module._compile (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js:568:25)\n    at Module.m._compile (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:69:33)\n    at node:internal/modules/cjs/loader:2074:10\n    at require.extensions..jsx.require.extensions..js (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:114:20)\n    at require.extensions.<computed> (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:71:20)\n    at Object.nodeDevHook [as .ts] (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js:63:13)\n    at Module.load (node:internal/modules/cjs/loader:1656:32)","os":{"loadavg":[0,0,0],"uptime":99245.218},"process":{"argv":["C:\\Program Files\\nodejs\\node.exe","src/index.ts"],"cwd":"C:\\Users\\alaat\\Desktop\\SE2","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":157507,"external":2402044,"heapTotal":14028800,"heapUsed":8937288,"rss":57507840},"pid":4640,"uid":null,"version":"v26.5.0"},"stack":"Error: [OrderManagment] error adding error Price must be a positive number. Given price: -45\n    at OrderManagment.addOrder (C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts:27:19)\n    at Object.<anonymous> (C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts:30:17)\n    at Module.<anonymous> (node:internal/modules/cjs/loader:1934:14)\n    at Module._compile (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js:568:25)\n    at Module.m._compile (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:69:33)\n    at node:internal/modules/cjs/loader:2074:10\n    at require.extensions..jsx.require.extensions..js (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:114:20)\n    at require.extensions.<computed> (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:71:20)\n    at Object.nodeDevHook [as .ts] (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js:63:13)\n    at Module.load (node:internal/modules/cjs/loader:1656:32)","trace":[{"column":19,"file":"C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts","function":"OrderManagment.addOrder","line":27,"method":"addOrder","native":false},{"column":17,"file":"C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts","function":null,"line":30,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":null,"line":1934,"method":null,"native":false},{"column":25,"file":"C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js","function":"Module._compile","line":568,"method":"_compile","native":false},{"column":33,"file":"C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js","function":"Module.m._compile","line":69,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":null,"line":2074,"method":null,"native":false},{"column":20,"file":"C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js","function":"require.extensions..jsx.require.extensions..js","line":114,"method":".js","native":false},{"column":20,"file":"C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js","function":"require.extensions.<computed>","line":71,"method":"<computed>","native":false},{"column":13,"file":"C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js","function":"Object.nodeDevHook [as .ts]","line":63,"method":"ts]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1656,"method":"load","native":false}]}
+{"date":"Wed Sep 16 2026 20:49:15 GMT+0300 (Eastern European Summer Time)","error":{},"exception":true,"level":"error","message":"uncaughtException: [OrderManagment] error adding error Price must be a positive number. Given price: -45\nError: [OrderManagment] error adding error Price must be a positive number. Given price: -45\n    at OrderManagment.addOrder (C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts:27:19)\n    at Object.<anonymous> (C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts:30:17)\n    at Module.<anonymous> (node:internal/modules/cjs/loader:1934:14)\n    at Module._compile (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js:568:25)\n    at Module.m._compile (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:69:33)\n    at node:internal/modules/cjs/loader:2074:10\n    at require.extensions..jsx.require.extensions..js (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:114:20)\n    at require.extensions.<computed> (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:71:20)\n    at Object.nodeDevHook [as .ts] (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js:63:13)\n    at Module.load (node:internal/modules/cjs/loader:1656:32)","os":{"loadavg":[0,0,0],"uptime":99246.984},"process":{"argv":["C:\\Program Files\\nodejs\\node.exe","src/index.ts"],"cwd":"C:\\Users\\alaat\\Desktop\\SE2","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":157507,"external":2402044,"heapTotal":14028800,"heapUsed":8918696,"rss":57884672},"pid":20436,"uid":null,"version":"v26.5.0"},"stack":"Error: [OrderManagment] error adding error Price must be a positive number. Given price: -45\n    at OrderManagment.addOrder (C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts:27:19)\n    at Object.<anonymous> (C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts:30:17)\n    at Module.<anonymous> (node:internal/modules/cjs/loader:1934:14)\n    at Module._compile (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js:568:25)\n    at Module.m._compile (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:69:33)\n    at node:internal/modules/cjs/loader:2074:10\n    at require.extensions..jsx.require.extensions..js (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:114:20)\n    at require.extensions.<computed> (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:71:20)\n    at Object.nodeDevHook [as .ts] (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js:63:13)\n    at Module.load (node:internal/modules/cjs/loader:1656:32)","trace":[{"column":19,"file":"C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts","function":"OrderManagment.addOrder","line":27,"method":"addOrder","native":false},{"column":17,"file":"C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts","function":null,"line":30,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":null,"line":1934,"method":null,"native":false},{"column":25,"file":"C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js","function":"Module._compile","line":568,"method":"_compile","native":false},{"column":33,"file":"C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js","function":"Module.m._compile","line":69,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":null,"line":2074,"method":null,"native":false},{"column":20,"file":"C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js","function":"require.extensions..jsx.require.extensions..js","line":114,"method":".js","native":false},{"column":20,"file":"C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js","function":"require.extensions.<computed>","line":71,"method":"<computed>","native":false},{"column":13,"file":"C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js","function":"Object.nodeDevHook [as .ts]","line":63,"method":"ts]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1656,"method":"load","native":false}]}
+{"date":"Wed Sep 16 2026 20:49:17 GMT+0300 (Eastern European Summer Time)","error":{},"exception":true,"level":"error","message":"uncaughtException: [OrderManagment] error adding error Price must be a positive number. Given price: -45\nError: [OrderManagment] error adding error Price must be a positive number. Given price: -45\n    at OrderManagment.addOrder (C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts:27:19)\n    at Object.<anonymous> (C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts:30:17)\n    at Module.<anonymous> (node:internal/modules/cjs/loader:1934:14)\n    at Module._compile (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js:568:25)\n    at Module.m._compile (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:69:33)\n    at node:internal/modules/cjs/loader:2074:10\n    at require.extensions..jsx.require.extensions..js (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:114:20)\n    at require.extensions.<computed> (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:71:20)\n    at Object.nodeDevHook [as .ts] (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js:63:13)\n    at Module.load (node:internal/modules/cjs/loader:1656:32)","os":{"loadavg":[0,0,0],"uptime":99249.531},"process":{"argv":["C:\\Program Files\\nodejs\\node.exe","src/index.ts"],"cwd":"C:\\Users\\alaat\\Desktop\\SE2","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":157604,"external":2402044,"heapTotal":14028800,"heapUsed":8982496,"rss":57495552},"pid":14232,"uid":null,"version":"v26.5.0"},"stack":"Error: [OrderManagment] error adding error Price must be a positive number. Given price: -45\n    at OrderManagment.addOrder (C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts:27:19)\n    at Object.<anonymous> (C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts:30:17)\n    at Module.<anonymous> (node:internal/modules/cjs/loader:1934:14)\n    at Module._compile (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js:568:25)\n    at Module.m._compile (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:69:33)\n    at node:internal/modules/cjs/loader:2074:10\n    at require.extensions..jsx.require.extensions..js (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:114:20)\n    at require.extensions.<computed> (C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js:71:20)\n    at Object.nodeDevHook [as .ts] (C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js:63:13)\n    at Module.load (node:internal/modules/cjs/loader:1656:32)","trace":[{"column":19,"file":"C:\\Users\\alaat\\Desktop\\SE2\\src\\App.ts","function":"OrderManagment.addOrder","line":27,"method":"addOrder","native":false},{"column":17,"file":"C:\\Users\\alaat\\Desktop\\SE2\\src\\index.ts","function":null,"line":30,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":null,"line":1934,"method":null,"native":false},{"column":25,"file":"C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\source-map-support\\source-map-support.js","function":"Module._compile","line":568,"method":"_compile","native":false},{"column":33,"file":"C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js","function":"Module.m._compile","line":69,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":null,"line":2074,"method":null,"native":false},{"column":20,"file":"C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js","function":"require.extensions..jsx.require.extensions..js","line":114,"method":".js","native":false},{"column":20,"file":"C:\\Users\\alaat\\AppData\\Local\\Temp\\ts-node-dev-hook-695748863347297.js","function":"require.extensions.<computed>","line":71,"method":"<computed>","native":false},{"column":13,"file":"C:\\Users\\alaat\\Desktop\\SE2\\node_modules\\ts-node-dev\\lib\\hook.js","function":"Object.nodeDevHook [as .ts]","line":63,"method":"ts]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1656,"method":"load","native":false}]}

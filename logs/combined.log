@@ -1,0 +1,753 @@
+{"0":{"id":1,"item":"Sponge","price":15},"1":{"id":2,"item":"Chocolate","price":20},"2":{"id":3,"item":"Fruit","price":18},"3":{"id":4,"item":"Red Velvet","price":25},"4":{"id":5,"item":"Coffee","price":8},"level":"info","message":"Orders after adding a new order:"}
+{"level":"info","message":"Total Revenue:"}
+{"level":"info","message":"Average Buy Power:"}
+{"id":2,"item":"Chocolate","level":"info","message":"Order with ID 2:","price":20}
+{"level":"info","message":"Order with ID 10 (non-existent):"}
+{"0":{"id":1,"item":"Sponge","price":15},"1":{"id":2,"item":"Chocolate","price":20},"2":{"id":3,"item":"Fruit","price":18},"3":{"id":4,"item":"Red Velvet","price":25},"4":{"id":5,"item":"Coffee","price":8},"level":"info","message":"Orders after adding a new order:"}
+{"level":"info","message":"Total Revenue:"}
+{"level":"info","message":"Average Buy Power:"}
+{"id":2,"item":"Chocolate","level":"info","message":"Order with ID 2:","price":20}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined"}
+{"0":{"id":1,"item":"Sponge","price":15},"1":{"id":2,"item":"Chocolate","price":20},"2":{"id":3,"item":"Fruit","price":18},"3":{"id":4,"item":"Red Velvet","price":25},"4":{"id":5,"item":"Coffee","price":8},"level":"info","message":"Orders after adding a new order:"}
+{"level":"info","message":"Total Revenue:"}
+{"level":"info","message":"Average Buy Power:"}
+{"level":"info","message":"Order with ID 2:[object Object]"}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined"}
+{"0":{"id":1,"item":"Sponge","price":15},"1":{"id":2,"item":"Chocolate","price":20},"2":{"id":3,"item":"Fruit","price":18},"3":{"id":4,"item":"Red Velvet","price":25},"4":{"id":5,"item":"Coffee","price":8},"level":"info","message":"Orders after adding a new order:"}
+{"level":"info","message":"Total Revenue:"}
+{"level":"info","message":"Average Buy Power:17.20"}
+{"level":"info","message":"Order with ID 2:[object Object]"}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined"}
+{"0":{"id":1,"item":"Sponge","price":15},"1":{"id":2,"item":"Chocolate","price":20},"2":{"id":3,"item":"Fruit","price":18},"3":{"id":4,"item":"Red Velvet","price":25},"4":{"id":5,"item":"Coffee","price":8},"level":"info","message":"Orders after adding a new order:"}
+{"level":"info","message":"Total Revenue:86.00"}
+{"level":"info","message":"Average Buy Power:17.20"}
+{"level":"info","message":"Order with ID 2:[object Object]"}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object]"}
+{"level":"info","message":"Total Revenue:86.00"}
+{"level":"info","message":"Average Buy Power:17.20"}
+{"level":"info","message":"Order with ID 2:[object Object]"}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object]"}
+{"level":"info","message":"Total Revenue:86.00"}
+{"level":"info","message":"Average Buy Power:17.20"}
+{"level":"info","message":"Order with ID 2:[object Object]"}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object]"}
+{"level":"info","message":"Total Revenue:86.00"}
+{"level":"info","message":"Average Buy Power:17.20"}
+{"level":"info","message":"Order with ID 2:[object Object]"}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object]"}
+{"level":"info","message":"Total Revenue:86.00"}
+{"level":"info","message":"Average Buy Power:17.20"}
+{"level":"info","message":"Order with ID 2:[object Object]"}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object]"}
+{"level":"info","message":"Total Revenue:86.00"}
+{"level":"info","message":"Average Buy Power:17.20"}
+{"level":"info","message":"Order with ID 2:[object Object]"}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object]"}
+{"level":"info","message":"Total Revenue:86.00"}
+{"level":"info","message":"Average Buy Power:17.20"}
+{"level":"info","message":"Order with ID 2:[object Object]"}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object]"}
+{"level":"info","message":"Total Revenue:86.00"}
+{"level":"info","message":"Average Buy Power:17.20"}
+{"level":"info","message":"Order with ID 2:[object Object]"}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object]"}
+{"level":"info","message":"Total Revenue:86.00"}
+{"level":"info","message":"Average Buy Power:17.20"}
+{"level":"info","message":"Order with ID 2:[object Object]"}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object]"}
+{"level":"info","message":"Total Revenue:86.00"}
+{"level":"info","message":"Average Buy Power:17.20"}
+{"level":"info","message":"Order with ID 2:[object Object]"}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object]"}
+{"level":"info","message":"Total Revenue:86.00"}
+{"level":"info","message":"Average Buy Power:17.20"}
+{"level":"info","message":"Order with ID 2:undefined"}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object]"}
+{"level":"info","message":"Total Revenue:86.00"}
+{"level":"info","message":"Average Buy Power:17.20"}
+{"level":"info","message":"Order with ID 2:undefined"}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object]"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object]"}
+{"level":"info","message":"Total Revenue:86.00"}
+{"level":"info","message":"Average Buy Power:17.20"}
+{"level":"info","message":"Order with ID 2:[object Object]"}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined"}
+{"level":"info","message":"Total Revenue:86.00"}
+{"level":"info","message":"Average Buy Power:17.20"}
+{"level":"info","message":"Order with ID 2:[object Object]"}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object]"}
+{"level":"info","message":"Total Revenue:86.00"}
+{"level":"info","message":"Average Buy Power:17.20"}
+{"level":"info","message":"Order with ID 2:[object Object]"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found."}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object]"}
+{"level":"info","message":"Total Revenue:86.00"}
+{"level":"info","message":"Average Buy Power:17.20"}
+{"level":"info","message":"Order with ID 2:[object Object]"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found."}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object]"}
+{"level":"info","message":"Total Revenue:86.00"}
+{"level":"info","message":"Average Buy Power:17.20"}
+{"level":"info","message":"Order with ID 2:[object Object]"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found."}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object]"}
+{"level":"info","message":"Total Revenue:86.00"}
+{"level":"info","message":"Average Buy Power:17.20"}
+{"level":"info","message":"Order with ID 2:[object Object]"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found."}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object]"}
+{"level":"info","message":"Total Revenue:86.00"}
+{"level":"info","message":"Average Buy Power:17.20"}
+{"level":"info","message":"Order with ID 2:[object Object]"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found."}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object]"}
+{"level":"info","message":"Total Revenue:86.00"}
+{"level":"info","message":"Average Buy Power:17.20"}
+{"level":"info","message":"Order with ID 2:[object Object]"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found."}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object]"}
+{"level":"info","message":"Total Revenue:86.00"}
+{"level":"info","message":"Average Buy Power:17.20"}
+{"level":"info","message":"Order with ID 2:[object Object]"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found."}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object]"}
+{"level":"info","message":"Total Revenue:86.00"}
+{"level":"info","message":"Average Buy Power:17.20"}
+{"level":"info","message":"Order with ID 2:[object Object]"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found."}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object]"}
+{"level":"info","message":"Total Revenue:86.00"}
+{"level":"info","message":"Average Buy Power:17.20"}
+{"level":"info","message":"Order with ID 2:[object Object]"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found."}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object]"}
+{"level":"info","message":"Total Revenue:86.00"}
+{"level":"info","message":"Average Buy Power:17.20"}
+{"level":"info","message":"Order with ID 2:[object Object]"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found."}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object]"}
+{"level":"info","message":"Total Revenue:86.00"}
+{"level":"info","message":"Average Buy Power:17.20"}
+{"level":"info","message":"Order with ID 2:[object Object]"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found."}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object]"}
+{"level":"info","message":"Total Revenue:86.00"}
+{"level":"info","message":"Average Buy Power:17.20"}
+{"level":"info","message":"Order with ID 2:[object Object]"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found."}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object]"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object]"}
+{"level":"info","message":"Total Revenue:86.00"}
+{"level":"info","message":"Average Buy Power:17.20"}
+{"level":"info","message":"Order with ID 2:[object Object]"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found."}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined"}
+{"level":"info","message":"Total Revenue:86.00"}
+{"level":"info","message":"Average Buy Power:17.20"}
+{"level":"info","message":"Order with ID 2:[object Object]"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found."}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object]"}
+{"level":"info","message":"Total Revenue:86.00"}
+{"level":"info","message":"Average Buy Power:17.20"}
+{"level":"info","message":"Order with ID 2:[object Object]"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found."}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object]"}
+{"level":"info","message":"Total Revenue:86.00"}
+{"level":"info","message":"Average Buy Power:17.20"}
+{"level":"info","message":"Order with ID 2:[object Object]"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found."}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object]"}
+{"level":"info","message":"Total Revenue:86.00"}
+{"level":"info","message":"Average Buy Power:17.20"}
+{"level":"info","message":"Order with ID 2:[object Object]"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found."}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object]"}
+{"level":"info","message":"Total Revenue:86.00"}
+{"level":"info","message":"Average Buy Power:17.20"}
+{"level":"info","message":"Order with ID 2:[object Object]"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found."}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object]"}
+{"level":"info","message":"Total Revenue:86.00"}
+{"level":"info","message":"Average Buy Power:17.20"}
+{"level":"info","message":"Order with ID 2:[object Object]"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found."}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object]"}
+{"level":"info","message":"Total Revenue:86.00"}
+{"level":"info","message":"Average Buy Power:17.20"}
+{"level":"info","message":"Order with ID 2:[object Object]"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found."}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object]"}
+{"level":"info","message":"Total Revenue:86.00"}
+{"level":"info","message":"Average Buy Power:17.20"}
+{"level":"info","message":"Order with ID 2:[object Object]"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found."}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object]"}
+{"level":"info","message":"Total Revenue:86.00"}
+{"level":"info","message":"Average Buy Power:17.20"}
+{"level":"info","message":"Order with ID 2:[object Object]"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found."}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object]"}
+{"level":"info","message":"Total Revenue:86.00"}
+{"level":"info","message":"Average Buy Power:17.20"}
+{"level":"info","message":"Order with ID 2:[object Object]"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found."}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object]"}
+{"level":"info","message":"Total Revenue:86.00"}
+{"level":"info","message":"Average Buy Power:17.20"}
+{"level":"info","message":"Order with ID 2:[object Object]"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found."}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object]"}
+{"level":"info","message":"Total Revenue:86.00"}
+{"level":"info","message":"Average Buy Power:17.20"}
+{"level":"info","message":"Order with ID 2:[object Object]"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found."}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object]"}
+{"level":"info","message":"Total Revenue:86.00"}
+{"level":"info","message":"Average Buy Power:17.20"}
+{"level":"info","message":"Order with ID 2:[object Object]"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found."}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object]"}
+{"level":"info","message":"Total Revenue:86.00"}
+{"level":"info","message":"Average Buy Power:17.20"}
+{"level":"info","message":"Order with ID 2:[object Object]"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found."}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object]"}
+{"level":"info","message":"Total Revenue:86.00"}
+{"level":"info","message":"Average Buy Power:17.20"}
+{"level":"info","message":"Order with ID 2:[object Object]"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found."}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object]"}
+{"level":"info","message":"Total Revenue:86.00"}
+{"level":"info","message":"Average Buy Power:17.20"}
+{"level":"info","message":"Order with ID 2:[object Object]"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found."}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object]"}
+{"level":"info","message":"Total Revenue:86.00"}
+{"level":"info","message":"Average Buy Power:17.20"}
+{"level":"info","message":"Order with ID 2:[object Object]"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found."}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object]"}
+{"level":"info","message":"Total Revenue:86.00"}
+{"level":"info","message":"Average Buy Power:17.20"}
+{"level":"info","message":"Order with ID 2:[object Object]"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found."}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object]"}
+{"level":"info","message":"Total Revenue:86.00"}
+{"level":"info","message":"Average Buy Power:17.20"}
+{"level":"info","message":"Order with ID 2:[object Object]"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found."}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object]"}
+{"level":"info","message":"Total Revenue:86.00"}
+{"level":"info","message":"Average Buy Power:17.20"}
+{"level":"info","message":"Order with ID 2:[object Object]"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found."}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined"}
+{"level":"error","message":"[ValidateItem] Invalid item: Sponge"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object]"}
+{"level":"info","message":"Total Revenue:86.00"}
+{"level":"info","message":"Average Buy Power:17.20"}
+{"level":"info","message":"Order with ID 2:[object Object]"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found."}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object]"}
+{"level":"info","message":"Total Revenue:86.00"}
+{"level":"info","message":"Average Buy Power:17.20"}
+{"level":"info","message":"Order with ID 2:[object Object]"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found."}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object]"}
+{"level":"info","message":"Total Revenue:86.00"}
+{"level":"info","message":"Average Buy Power:17.20"}
+{"level":"info","message":"Order with ID 2:[object Object]"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found."}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined"}
+{"level":"error","message":"[ValidateItem] Invalid item: Sponge"}
+{"level":"error","message":"[ValidateItem] Invalid item: Sponge"}
+{"level":"error","message":"[ValidateItem] Invalid price: Sponge"}
+{"level":"error","message":"[ValidateItem] Invalid price: 15"}
+{"level":"error","message":"[ValidateItem] Invalid price: 15"}
+{"level":"error","message":"[ValidateItem] Invalid price: 15"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object]"}
+{"level":"info","message":"Total Revenue:86.00"}
+{"level":"info","message":"Average Buy Power:17.20"}
+{"level":"info","message":"Order with ID 2:[object Object]"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found."}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object]"}
+{"level":"info","message":"Total Revenue:86.00"}
+{"level":"info","message":"Average Buy Power:17.20"}
+{"level":"info","message":"Order with ID 2:[object Object]"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found."}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object]"}
+{"level":"info","message":"Total Revenue:86.00"}
+{"level":"info","message":"Average Buy Power:17.20"}
+{"level":"info","message":"Order with ID 2:[object Object]"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found."}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object]"}
+{"level":"info","message":"Total Revenue:86.00"}
+{"level":"info","message":"Average Buy Power:17.20"}
+{"level":"info","message":"Order with ID 2:[object Object]"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found."}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object]"}
+{"level":"info","message":"Total Revenue:86.00"}
+{"level":"info","message":"Average Buy Power:17.20"}
+{"level":"info","message":"Order with ID 2:[object Object]"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found."}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object]"}
+{"level":"info","message":"Total Revenue:86.00"}
+{"level":"info","message":"Average Buy Power:17.20"}
+{"level":"info","message":"Order with ID 2:[object Object]"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found."}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object]"}
+{"level":"info","message":"Total Revenue:86.00"}
+{"level":"info","message":"Average Buy Power:17.20"}
+{"level":"info","message":"Order with ID 2:[object Object]"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found."}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object]"}
+{"level":"info","message":"Total Revenue:86.00"}
+{"level":"info","message":"Average Buy Power:17.20"}
+{"level":"info","message":"Order with ID 2:[object Object]"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found."}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object]"}
+{"level":"info","message":"Total Revenue:86.00"}
+{"level":"info","message":"Average Buy Power:17.20"}
+{"level":"info","message":"Order with ID 2:[object Object]"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found."}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object]"}
+{"level":"info","message":"Total Revenue:86.00"}
+{"level":"info","message":"Average Buy Power:17.20"}
+{"level":"info","message":"Order with ID 2:[object Object]"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found."}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined"}
+{"level":"error","message":"[ValidateItem] Invalid price: -45"}
+{"level":"error","message":"[ValidateItem] Invalid price: -45"}
+{"level":"error","message":"[ValidateItem] Invalid price: -45"}
+{"level":"error","message":"[ValidateItem] Invalid price: -45"}
+{"level":"error","message":"[ValidateItem] Invalid price: -45"}
+{"level":"error","message":"[ValidateItem] Invalid price: -45"}
+{"level":"error","message":"[ValidateItem] Invalid price: -45"}
+{"level":"error","message":"[ValidateItem] Invalid price: -45"}
+{"level":"error","message":"[ValidateItem] Invalid price: -45"}
+{"level":"error","message":"[ValidateItem] Invalid price: -45"}
+{"level":"error","message":"[ValidateItem] Invalid price: -45"}
+{"level":"error","message":"[ValidateItem] Invalid price: -45","timestamp":"2026-09-16"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]","timestamp":"2026-09-16"}
+{"level":"info","message":"Total Revenue:131.00","timestamp":"2026-09-16"}
+{"level":"info","message":"Average Buy Power:21.83","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 2:[object Object]","timestamp":"2026-09-16"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found.","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined","timestamp":"2026-09-16"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]","timestamp":"2026-09-16"}
+{"level":"info","message":"Total Revenue:131.00","timestamp":"2026-09-16"}
+{"level":"info","message":"Average Buy Power:21.83","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 2:[object Object]","timestamp":"2026-09-16"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found.","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined","timestamp":"2026-09-16"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]","timestamp":"2026-09-16"}
+{"level":"info","message":"Total Revenue:131.00","timestamp":"2026-09-16"}
+{"level":"info","message":"Average Buy Power:21.83","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 2:[object Object]","timestamp":"2026-09-16"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found.","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined","timestamp":"2026-09-16"}
+{"level":"error","message":"[ValidateItem] Invalid price: -45","timestamp":"2026-09-16"}
+{"level":"error","message":"[ValidateItem] Invalid price: -45","timestamp":"2026-09-16"}
+{"level":"error","message":"[ValidateItem] Invalid price: -45","timestamp":"2026-09-16"}
+{"level":"error","message":"[ValidateItem] Invalid price: -45","timestamp":"2026-09-16"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]","timestamp":"2026-09-16"}
+{"level":"info","message":"Total Revenue:131.00","timestamp":"2026-09-16"}
+{"level":"info","message":"Average Buy Power:21.83","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 2:[object Object]","timestamp":"2026-09-16"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found.","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined","timestamp":"2026-09-16"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]","timestamp":"2026-09-16"}
+{"level":"info","message":"Total Revenue:131.00","timestamp":"2026-09-16"}
+{"level":"info","message":"Average Buy Power:21.83","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 2:[object Object]","timestamp":"2026-09-16"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found.","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined","timestamp":"2026-09-16"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]","timestamp":"2026-09-16"}
+{"level":"info","message":"Total Revenue:131.00","timestamp":"2026-09-16"}
+{"level":"info","message":"Average Buy Power:21.83","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 2: [object Object]","timestamp":"2026-09-16"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found.","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined","timestamp":"2026-09-16"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]","timestamp":"2026-09-16"}
+{"level":"info","message":"Total Revenue:131.00","timestamp":"2026-09-16"}
+{"level":"info","message":"Average Buy Power:21.83","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 2: %[object Object]","timestamp":"2026-09-16"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found.","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined","timestamp":"2026-09-16"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]","timestamp":"2026-09-16"}
+{"level":"info","message":"Total Revenue:131.00","timestamp":"2026-09-16"}
+{"level":"info","message":"Average Buy Power:21.83","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 2: %o","timestamp":"2026-09-16"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found.","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined","timestamp":"2026-09-16"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]","timestamp":"2026-09-16"}
+{"level":"info","message":"Total Revenue:131.00","timestamp":"2026-09-16"}
+{"level":"info","message":"Average Buy Power:21.83","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 2: %o","timestamp":"2026-09-16"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found.","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined","timestamp":"2026-09-16"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]","timestamp":"2026-09-16"}
+{"level":"info","message":"Total Revenue:131.00","timestamp":"2026-09-16"}
+{"level":"info","message":"Average Buy Power:21.83","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 2: %o","timestamp":"2026-09-16"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found.","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined","timestamp":"2026-09-16"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]","timestamp":"2026-09-16"}
+{"level":"info","message":"Total Revenue:131.00","timestamp":"2026-09-16"}
+{"level":"info","message":"Average Buy Power:21.83","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 2: %o","timestamp":"2026-09-16"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found.","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined","timestamp":"2026-09-16"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]","timestamp":"2026-09-16"}
+{"level":"info","message":"Total Revenue:131.00","timestamp":"2026-09-16"}
+{"level":"info","message":"Average Buy Power:21.83","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 2: %o","timestamp":"2026-09-16"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found.","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined","timestamp":"2026-09-16"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]","timestamp":"2026-09-16"}
+{"level":"info","message":"Total Revenue:131.00","timestamp":"2026-09-16"}
+{"level":"info","message":"Average Buy Power:21.83","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 2: %o","timestamp":"2026-09-16"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found.","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined","timestamp":"2026-09-16"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]","timestamp":"2026-09-16"}
+{"level":"info","message":"Total Revenue:131.00","timestamp":"2026-09-16"}
+{"level":"info","message":"Average Buy Power:21.83","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 2: %o","timestamp":"2026-09-16"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found.","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined","timestamp":"2026-09-16"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]","timestamp":"2026-09-16"}
+{"level":"info","message":"Total Revenue:131.00","timestamp":"2026-09-16"}
+{"level":"info","message":"Average Buy Power:21.83","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 2: %o","timestamp":"2026-09-16"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found.","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined","timestamp":"2026-09-16"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]","timestamp":"2026-09-16"}
+{"level":"info","message":"Total Revenue:131.00","timestamp":"2026-09-16"}
+{"level":"info","message":"Average Buy Power:21.83","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 2: %o","timestamp":"2026-09-16"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found.","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined","timestamp":"2026-09-16"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]","timestamp":"2026-09-16"}
+{"level":"info","message":"Total Revenue:131.00","timestamp":"2026-09-16"}
+{"level":"info","message":"Average Buy Power:21.83","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 2: %o","timestamp":"2026-09-16"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found.","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined","timestamp":"2026-09-16"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]","timestamp":"2026-09-16"}
+{"level":"info","message":"Total Revenue:131.00","timestamp":"2026-09-16"}
+{"level":"info","message":"Average Buy Power:21.83","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 2: %o","timestamp":"2026-09-16"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found.","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined","timestamp":"2026-09-16"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]","timestamp":"2026-09-16"}
+{"level":"info","message":"Total Revenue:131.00","timestamp":"2026-09-16"}
+{"level":"info","message":"Average Buy Power:21.83","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 2: %o","timestamp":"2026-09-16"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found.","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined","timestamp":"2026-09-16"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]","timestamp":"2026-09-16"}
+{"level":"info","message":"Total Revenue:131.00","timestamp":"2026-09-16"}
+{"level":"info","message":"Average Buy Power:21.83","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 2: %o","timestamp":"2026-09-16"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found.","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined","timestamp":"2026-09-16"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]","timestamp":"2026-09-16"}
+{"level":"info","message":"Total Revenue:131.00","timestamp":"2026-09-16"}
+{"level":"info","message":"Average Buy Power:21.83","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 2: %o","timestamp":"2026-09-16"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found.","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined","timestamp":"2026-09-16"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]","timestamp":"2026-09-16"}
+{"level":"info","message":"Total Revenue:131.00","timestamp":"2026-09-16"}
+{"level":"info","message":"Average Buy Power:21.83","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 2: %o","timestamp":"2026-09-16"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found.","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined","timestamp":"2026-09-16"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]","timestamp":"2026-09-16"}
+{"level":"info","message":"Total Revenue:131.00","timestamp":"2026-09-16"}
+{"level":"info","message":"Average Buy Power:21.83","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 2: %o","timestamp":"2026-09-16"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found.","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined","timestamp":"2026-09-16"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]","timestamp":"2026-09-16"}
+{"level":"info","message":"Total Revenue:131.00","timestamp":"2026-09-16"}
+{"level":"info","message":"Average Buy Power:21.83","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 2: %o","timestamp":"2026-09-16"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found.","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined","timestamp":"2026-09-16"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]","timestamp":"2026-09-16"}
+{"level":"info","message":"Total Revenue:131.00","timestamp":"2026-09-16"}
+{"level":"info","message":"Average Buy Power:21.83","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 2: %o","timestamp":"2026-09-16"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found.","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined","timestamp":"2026-09-16"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]","timestamp":"2026-09-16"}
+{"level":"info","message":"Total Revenue:131.00","timestamp":"2026-09-16"}
+{"level":"info","message":"Average Buy Power:21.83","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 2: %o","timestamp":"2026-09-16"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found.","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined","timestamp":"2026-09-16"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]","timestamp":"2026-09-16"}
+{"level":"info","message":"Total Revenue:131.00","timestamp":"2026-09-16"}
+{"level":"info","message":"Average Buy Power:21.83","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 2: %o","timestamp":"2026-09-16"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found.","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined","timestamp":"2026-09-16"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]","timestamp":"2026-09-16"}
+{"level":"info","message":"Total Revenue:131.00","timestamp":"2026-09-16"}
+{"level":"info","message":"Average Buy Power:21.83","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 2: %o","timestamp":"2026-09-16"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found.","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined","timestamp":"2026-09-16"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]","timestamp":"2026-09-16"}
+{"level":"info","message":"Total Revenue:131.00","timestamp":"2026-09-16"}
+{"level":"info","message":"Average Buy Power:21.83","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 2: %o","timestamp":"2026-09-16"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found.","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined","timestamp":"2026-09-16"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]","timestamp":"2026-09-16"}
+{"level":"info","message":"Total Revenue:131.00","timestamp":"2026-09-16"}
+{"level":"info","message":"Average Buy Power:21.83","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 2: %o","timestamp":"2026-09-16"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found.","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined","timestamp":"2026-09-16"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]","timestamp":"2026-09-16"}
+{"level":"info","message":"Total Revenue:131.00","timestamp":"2026-09-16"}
+{"level":"info","message":"Average Buy Power:21.83","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 2: %o","timestamp":"2026-09-16"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found.","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined","timestamp":"2026-09-16"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]","timestamp":"2026-09-16"}
+{"level":"info","message":"Total Revenue:131.00","timestamp":"2026-09-16"}
+{"level":"info","message":"Average Buy Power:21.83","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 2: %o","timestamp":"2026-09-16"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found.","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined","timestamp":"2026-09-16"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]","timestamp":"2026-09-16"}
+{"level":"info","message":"Total Revenue:131.00","timestamp":"2026-09-16"}
+{"level":"info","message":"Average Buy Power: %o21.83","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 2: %o","timestamp":"2026-09-16"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found.","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined","timestamp":"2026-09-16"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]","timestamp":"2026-09-16"}
+{"level":"info","message":"Total Revenue:131.00","timestamp":"2026-09-16"}
+{"level":"info","message":"Average Buy Power: %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 2: %o","timestamp":"2026-09-16"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found.","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined","timestamp":"2026-09-16"}
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]","timestamp":"2026-09-16"}
+{"level":"info","message":"Total Revenue:131.00","timestamp":"2026-09-16"}
+{"level":"info","message":"Average Buy Power: %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 2: %o","timestamp":"2026-09-16"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found.","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 10 (non-existent): %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Orders after adding a new order:%[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]","timestamp":"2026-09-16"}
+{"level":"info","message":"Total Revenue:131.00","timestamp":"2026-09-16"}
+{"level":"info","message":"Average Buy Power: %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 2: %o","timestamp":"2026-09-16"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found.","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 10 (non-existent): %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Orders after adding a new order:%o","timestamp":"2026-09-16"}
+{"level":"info","message":"Total Revenue:131.00","timestamp":"2026-09-16"}
+{"level":"info","message":"Average Buy Power: %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 2: %o","timestamp":"2026-09-16"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found.","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 10 (non-existent): %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Orders after adding a new order:%o","timestamp":"2026-09-16"}
+{"level":"info","message":"Total Revenue: %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Average Buy Power: %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 2: %o","timestamp":"2026-09-16"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found.","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 10 (non-existent): %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Orders after adding a new order:%o","timestamp":"2026-09-16"}
+{"level":"info","message":"Total Revenue: %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Average Buy Power: %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 2: %o","timestamp":"2026-09-16"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found.","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 10 (non-existent): %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Orders after adding a new order:%o","timestamp":"2026-09-16"}
+{"level":"info","message":"Total Revenue: %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Average Buy Power: %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 2: %o","timestamp":"2026-09-16"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found.","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 10 (non-existent): %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Orders after adding a new order:%o","timestamp":"2026-09-16"}
+{"level":"info","message":"Total Revenue: %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Average Buy Power: %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 2: %o","timestamp":"2026-09-16"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found.","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 10 (non-existent): %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Orders after adding a new order:%o","timestamp":"2026-09-16"}
+{"level":"info","message":"Total Revenue: %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Average Buy Power: %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 2: %o","timestamp":"2026-09-16"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found.","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 10 (non-existent): %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Orders after adding a new order:%o","timestamp":"2026-09-16"}
+{"level":"info","message":"Total Revenue: %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Average Buy Power: %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 2: %o","timestamp":"2026-09-16"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found.","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 10 (non-existent): %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Orders after adding a new order:%o","timestamp":"2026-09-16"}
+{"level":"info","message":"Total Revenue: %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Average Buy Power: %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 2: %o","timestamp":"2026-09-16"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found.","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 10 (non-existent): %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Orders after adding a new order:%o","timestamp":"2026-09-16"}
+{"level":"info","message":"Total Revenue: %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Average Buy Power: %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 2: %o","timestamp":"2026-09-16"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found.","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 10 (non-existent): %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Orders after adding a new order:%o","timestamp":"2026-09-16"}
+{"level":"info","message":"Total Revenue: %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Average Buy Power: %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 2: %o","timestamp":"2026-09-16"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found.","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 10 (non-existent): %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Orders after adding a new order:%o","timestamp":"2026-09-16"}
+{"level":"info","message":"Total Revenue: %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Average Buy Power: %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 2: %o","timestamp":"2026-09-16"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found.","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 10 (non-existent): %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Orders after adding a new order:%o","timestamp":"2026-09-16"}
+{"level":"info","message":"Total Revenue: %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Average Buy Power: %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 2: %o","timestamp":"2026-09-16"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found.","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 10 (non-existent): %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Orders after adding a new order:%o","timestamp":"2026-09-16"}
+{"level":"info","message":"Total Revenue: %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Average Buy Power: %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 2: %o","timestamp":"2026-09-16"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found.","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 10 (non-existent): %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Orders after adding a new order:%o","timestamp":"2026-09-16"}
+{"level":"info","message":"Total Revenue: %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Average Buy Power: %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 2: %o","timestamp":"2026-09-16"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found.","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 10 (non-existent): %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Orders after adding a new order:%o","timestamp":"2026-09-16"}
+{"level":"info","message":"Total Revenue: %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Average Buy Power: %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 2: %o","timestamp":"2026-09-16"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found.","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 10 (non-existent): %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Orders after adding a new order:%o","timestamp":"2026-09-16"}
+{"level":"info","message":"Total Revenue: %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Average Buy Power: %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 2: %o","timestamp":"2026-09-16"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found.","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 10 (non-existent): %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Orders after adding a new order:%o","timestamp":"2026-09-16"}
+{"level":"info","message":"Total Revenue: %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Average Buy Power: %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 2: %o","timestamp":"2026-09-16"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found.","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 10 (non-existent): %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Orders after adding a new order:%o","timestamp":"2026-09-16"}
+{"level":"info","message":"Total Revenue: %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Average Buy Power: %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 2: %o","timestamp":"2026-09-16"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found.","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 10 (non-existent): %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Orders after adding a new order:%o","timestamp":"2026-09-16"}
+{"level":"info","message":"Total Revenue: %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Average Buy Power: %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 2: %o","timestamp":"2026-09-16"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found.","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 10 (non-existent): %o","timestamp":"2026-09-16"}
+{"level":"debug","message":"order","timestamp":"2026-09-16"}
+{"level":"info","message":"Orders after adding a new order:%o","timestamp":"2026-09-16"}
+{"level":"info","message":"Total Revenue: %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Average Buy Power: %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 2: %o","timestamp":"2026-09-16"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found.","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 10 (non-existent): %o","timestamp":"2026-09-16"}
+{"level":"debug","message":"orderMana","timestamp":"2026-09-16"}
+{"level":"info","message":"Orders after adding a new order:%o","timestamp":"2026-09-16"}
+{"level":"info","message":"Total Revenue: %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Average Buy Power: %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 2: %o","timestamp":"2026-09-16"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found.","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 10 (non-existent): %o","timestamp":"2026-09-16"}
+{"level":"debug","message":"orderManagment instance created with validator and calculator","timestamp":"2026-09-16"}
+{"level":"info","message":"Orders after adding a new order:%o","timestamp":"2026-09-16"}
+{"level":"info","message":"Total Revenue: %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Average Buy Power: %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 2: %o","timestamp":"2026-09-16"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found.","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 10 (non-existent): %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Orders after adding a new order:%o","timestamp":"2026-09-16"}
+{"level":"info","message":"Total Revenue: %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Average Buy Power: %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 2: %o","timestamp":"2026-09-16"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found.","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 10 (non-existent): %o","timestamp":"2026-09-16"}
+{"level":"debug","message":"orderManagment instance created with validator and calculator","timestamp":"2026-09-16"}
+{"level":"info","message":"Orders after adding a new order:%o","timestamp":"2026-09-16"}
+{"level":"info","message":"Total Revenue: %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Average Buy Power: %o","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 2: %o","timestamp":"2026-09-16"}
+{"level":"warn","message":"[OrderManagment] Order with ID 10 not found.","timestamp":"2026-09-16"}
+{"level":"info","message":"Order with ID 10 (non-existent): %o","timestamp":"2026-09-16"}
