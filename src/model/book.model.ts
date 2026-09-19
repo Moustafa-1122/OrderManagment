@@ -1,7 +1,8 @@
 import { Item, itemCategory } from "./item.model";
 
-export class Cake implements Item {
+export class Book implements Item {
     private item: string;
+    private author: string;
     private price: number;
     private quantity: number;
     private customerName: string;
@@ -11,6 +12,7 @@ export class Cake implements Item {
 
     constructor(
         item: string,
+        author: string,
         price: number,
         quantity: number,
         customerName: string,
@@ -19,6 +21,7 @@ export class Cake implements Item {
         status: string
     ) {
         this.item = item;
+        this.author = author;
         this.price = price;
         this.quantity = quantity;
         this.customerName = customerName;
@@ -31,8 +34,12 @@ export class Cake implements Item {
         return this.item;
     }
 
+    getAuthor() {
+        return this.author;
+    }
+
     getCategory() {
-        return itemCategory.CAKE;
+        return itemCategory.BOOK;
     }
 
     getPrice() {
