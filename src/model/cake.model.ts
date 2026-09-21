@@ -1,4 +1,4 @@
-import { Item, itemCategory } from "./item.model";
+import { Item, ItemCategory } from "./item.model";
 
 export class Cake implements Item {
     private item: string;
@@ -32,7 +32,7 @@ export class Cake implements Item {
     }
 
     getCategory() {
-        return itemCategory.CAKE;
+        return ItemCategory.CAKE;
     }
 
     getPrice() {

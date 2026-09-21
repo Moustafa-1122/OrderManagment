@@ -1,8 +1,8 @@
 export interface Item {
-    getCategory():itemCategory;
+    getCategory():ItemCategory;
 }
 
-export enum itemCategory {
+export enum ItemCategory {
     CAKE,
     BOOK,
     TOY

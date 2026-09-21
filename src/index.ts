@@ -1,10 +1,46 @@
-import logger from './util/logger';
-import { readCsv, writeCsv } from './util/parse'; 
+import { BookBuilder } from './builders/book.builder';
+import { CakeBuilder } from './builders/cake.builder';
+import { ToyBuilder } from './builders/toy.builder';
 
 async function main() {
+  const cakeBuilder = new CakeBuilder();
+  cakeBuilder.setItem("type")//method chaining(returning the same object to call another method on it )
+  .setPrice(20)
+  .setQuantity(2)
+  .setCustomerName("customerName")
+  .setOrderDate("orderDate")
+  .setPaymentMethod("paymentMethod")
+  .setStatus("status")
+  .build();// Build the cake order using the builder retuns a cake object
 
-  const data = await readCsv('src/data/data.csv', true); // set includeHeaders to true
-  //for each data row log the row
-  data.forEach((row) =>  logger.info(row));
-} 
+  const cake = cakeBuilder.build();
+  console.log(cake);
+
+  const bookBuilder = new BookBuilder();
+  bookBuilder.setItem("item")
+  .setAuthor("author")
+  .setPrice(15)
+  .setQuantity(1)
+  .setCustomerName("customerName")
+  .setOrderDate("orderDate")
+  .setPaymentMethod("paymentMethod")
+  .setStatus("status")
+  .build();// Build the book order using the builder retuns a book object
+  const book = bookBuilder.build();
+  console.log(book);
+
+  const toyBuilder = new ToyBuilder();
+  toyBuilder.setItem("item")
+  .setAgeRange("ageRange")
+  .setPrice(10)
+  .setQuantity(3)
+  .setCustomerName("customerName")
+  .setOrderDate("orderDate")
+  .setPaymentMethod("paymentMethod")
+  .setStatus("status")
+  .build();// Build the toy order using the builder retuns a toy object
+  const toy = toyBuilder.build();
+  console.log(toy);
+
+}
 main();

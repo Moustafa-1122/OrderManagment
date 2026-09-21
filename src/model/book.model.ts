@@ -1,4 +1,4 @@
-import { Item, itemCategory } from "./item.model";
+import { Item, ItemCategory } from "./item.model";
 
 export class Book implements Item {
     private item: string;
@@ -39,7 +39,7 @@ export class Book implements Item {
     }
 
     getCategory() {
-        return itemCategory.BOOK;
+        return ItemCategory.BOOK;
     }
 
     getPrice() {

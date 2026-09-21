@@ -1,0 +1,501 @@
+id,item,category,price,quantity,total,customer_name,order_date,payment_method,status
+1,Carrot Cake,Wedding,41.97,1,41.97,Rami Fares,2025-05-21,Cash,Delivered
+2,Carrot Cake,Wedding,39.52,1,39.52,Tarek Nassif,2025-02-17,Cash,Pending
+3,Tiramisu Cake,Regular,45.8,5,229.0,Omar Saleh,2025-04-23,Cash,Pending
+4,Carrot Cake,Anniversary,44.91,3,134.73,Sara Mansour,2025-03-21,Cash,Processing
+5,Chocolate Cake,Custom,14.84,3,44.52,Tarek Nassif,2025-05-16,Cash,Processing
+6,Marble Cake,Wedding,13.94,3,41.82,Dana Khoury,2025-07-05,Cash,Delivered
+7,Cheesecake,Custom,43.06,3,129.18,Omar Saleh,2025-04-30,Online Transfer,Cancelled
+8,Cheesecake,Regular,18.13,3,54.39,Hassan Ali,2025-05-17,Credit Card,Pending
+9,Carrot Cake,Anniversary,18.17,4,72.68,Nadine Farhat,2025-10-13,Cash,Pending
+10,Cheesecake,Wedding,51.09,3,153.27,Jad Sarkis,2025-05-18,Debit Card,Pending
+11,Red Velvet Cake,Anniversary,42.77,4,171.08,Rami Fares,2025-08-23,Credit Card,Cancelled
+12,Lemon Cake,Wedding,47.35,4,189.4,Rami Fares,2025-07-24,Online Transfer,Delivered
+13,Black Forest Cake,Regular,47.79,1,47.79,Sara Mansour,2025-03-23,Online Transfer,Processing
+14,Fruit Cake,Birthday,39.79,4,159.16,Hassan Ali,2025-05-09,Cash,Cancelled
+15,Black Forest Cake,Wedding,48.43,3,145.29,Maya Chami,2025-05-31,Cash,Cancelled
+16,Vanilla Cake,Regular,58.59,2,117.18,Rania Deeb,2025-02-24,Credit Card,Pending
+17,Chocolate Cake,Regular,28.7,2,57.4,Nour Assaf,2025-09-29,Online Transfer,Delivered
+18,Carrot Cake,Birthday,15.59,3,46.77,Layla Hamdan,2025-06-07,Cash,Delivered
+19,Red Velvet Cake,Wedding,46.6,1,46.6,Hassan Ali,2025-09-30,Online Transfer,Pending
+20,Fruit Cake,Wedding,23.25,5,116.25,Dana Khoury,2025-04-19,Debit Card,Processing
+21,Tiramisu Cake,Birthday,59.76,3,179.28,Layla Hamdan,2025-09-22,Credit Card,Delivered
+22,Marble Cake,Wedding,26.9,5,134.5,Ahmad Khalil,2025-04-28,Cash,Delivered
+23,Cheesecake,Regular,21.45,1,21.45,Layla Hamdan,2025-06-19,Debit Card,Processing
+24,Marble Cake,Custom,20.71,2,41.42,Layla Hamdan,2025-10-20,Online Transfer,Processing
+25,Lemon Cake,Custom,19.52,1,19.52,Karim Yousef,2025-08-09,Online Transfer,Delivered
+26,Lemon Cake,Birthday,43.67,1,43.67,Layla Hamdan,2025-07-26,Credit Card,Pending
+27,Vanilla Cake,Custom,36.81,2,73.62,Layla Hamdan,2025-04-04,Cash,Processing
+28,Fruit Cake,Birthday,50.4,5,252.0,Sara Mansour,2025-01-26,Credit Card,Pending
+29,Chocolate Cake,Wedding,30.32,4,121.28,Karim Yousef,2025-07-25,Cash,Processing
+30,Fruit Cake,Custom,23.26,4,93.04,Rami Fares,2025-08-05,Credit Card,Cancelled
+31,Chocolate Cake,Anniversary,20.89,1,20.89,Ahmad Khalil,2025-10-05,Cash,Processing
+32,Fruit Cake,Birthday,35.14,5,175.7,Nadine Farhat,2025-01-30,Credit Card,Delivered
+33,Marble Cake,Wedding,39.75,2,79.5,Rania Deeb,2025-03-03,Cash,Delivered
+34,Lemon Cake,Anniversary,30.96,5,154.8,Layla Hamdan,2025-09-25,Debit Card,Pending
+35,Tiramisu Cake,Anniversary,23.28,2,46.56,Jad Sarkis,2025-06-03,Cash,Delivered
+36,Fruit Cake,Wedding,32.91,5,164.55,Tarek Nassif,2025-02-07,Debit Card,Pending
+37,Vanilla Cake,Wedding,56.66,1,56.66,Maya Chami,2025-07-09,Debit Card,Delivered
+38,Red Velvet Cake,Anniversary,43.39,5,216.95,Sara Mansour,2025-02-23,Cash,Pending
+39,Carrot Cake,Anniversary,23.62,5,118.1,Tarek Nassif,2025-06-25,Online Transfer,Cancelled
+40,Vanilla Cake,Birthday,55.27,1,55.27,Ahmad Khalil,2025-08-05,Debit Card,Pending
+41,Fruit Cake,Custom,41.86,3,125.58,Tarek Nassif,2025-08-15,Cash,Delivered
+42,Lemon Cake,Regular,13.76,2,27.52,Tarek Nassif,2025-01-19,Credit Card,Processing
+43,Lemon Cake,Wedding,16.37,3,49.11,Hassan Ali,2025-01-21,Credit Card,Delivered
+44,Marble Cake,Wedding,27.68,5,138.4,Jad Sarkis,2025-07-28,Credit Card,Pending
+45,Red Velvet Cake,Anniversary,58.81,2,117.62,Fadi Aoun,2025-01-13,Online Transfer,Pending
+46,Tiramisu Cake,Wedding,23.34,1,23.34,Layla Hamdan,2025-01-20,Online Transfer,Cancelled
+47,Carrot Cake,Custom,25.26,2,50.52,Nour Assaf,2025-01-13,Debit Card,Delivered
+48,Black Forest Cake,Regular,58.34,3,175.02,Nour Assaf,2025-09-18,Cash,Delivered
+49,Vanilla Cake,Birthday,53.85,3,161.55,Sara Mansour,2025-10-25,Online Transfer,Cancelled
+50,Cheesecake,Custom,46.43,3,139.29,Jad Sarkis,2025-09-19,Credit Card,Cancelled
+51,Fruit Cake,Wedding,12.22,4,48.88,Nour Assaf,2025-09-24,Online Transfer,Delivered
+52,Cheesecake,Anniversary,57.44,3,172.32,Tarek Nassif,2025-06-10,Debit Card,Processing
+53,Carrot Cake,Custom,26.31,3,78.93,Hassan Ali,2025-03-07,Online Transfer,Pending
+54,Chocolate Cake,Anniversary,40.78,3,122.34,Omar Saleh,2025-10-08,Credit Card,Processing
+55,Tiramisu Cake,Custom,49.29,5,246.45,Maya Chami,2025-06-14,Credit Card,Processing
+56,Vanilla Cake,Regular,49.69,2,99.38,Hassan Ali,2025-02-13,Debit Card,Delivered
+57,Carrot Cake,Wedding,50.92,2,101.84,Rami Fares,2025-06-08,Cash,Delivered
+58,Tiramisu Cake,Custom,22.24,4,88.96,Jad Sarkis,2025-02-07,Credit Card,Processing
+59,Cheesecake,Custom,34.72,2,69.44,Layla Hamdan,2025-01-03,Credit Card,Processing
+60,Tiramisu Cake,Wedding,12.51,2,25.02,Fadi Aoun,2025-03-04,Online Transfer,Cancelled
+61,Black Forest Cake,Regular,57.5,4,230.0,Maya Chami,2025-09-16,Credit Card,Processing
+62,Fruit Cake,Custom,32.5,2,65.0,Hassan Ali,2025-05-22,Credit Card,Cancelled
+63,Lemon Cake,Anniversary,31.99,3,95.97,Jad Sarkis,2025-05-20,Cash,Pending
+64,Carrot Cake,Birthday,17.54,4,70.16,Karim Yousef,2025-03-20,Online Transfer,Cancelled
+65,Black Forest Cake,Custom,37.13,4,148.52,Jad Sarkis,2025-04-16,Cash,Processing
+66,Black Forest Cake,Regular,33.85,3,101.55,Dana Khoury,2025-07-19,Credit Card,Processing
+67,Black Forest Cake,Anniversary,20.97,4,83.88,Hassan Ali,2025-01-15,Online Transfer,Pending
+68,Chocolate Cake,Custom,52.03,2,104.06,Rania Deeb,2025-10-01,Cash,Delivered
+69,Red Velvet Cake,Birthday,42.14,2,84.28,Omar Saleh,2025-08-25,Online Transfer,Cancelled
+70,Vanilla Cake,Custom,20.58,3,61.74,Omar Saleh,2025-07-14,Cash,Processing
+71,Carrot Cake,Birthday,10.97,5,54.85,Fadi Aoun,2025-06-29,Cash,Delivered
+72,Marble Cake,Wedding,57.48,2,114.96,Layla Hamdan,2025-01-11,Credit Card,Processing
+73,Vanilla Cake,Anniversary,43.47,5,217.35,Rami Fares,2025-08-27,Cash,Pending
+74,Vanilla Cake,Regular,58.24,1,58.24,Hassan Ali,2025-01-14,Online Transfer,Processing
+75,Cheesecake,Anniversary,57.07,2,114.14,Nadine Farhat,2025-05-05,Cash,Delivered
+76,Cheesecake,Regular,27.36,4,109.44,Hassan Ali,2025-07-09,Debit Card,Delivered
+77,Lemon Cake,Custom,52.48,4,209.92,Dana Khoury,2025-08-10,Credit Card,Processing
+78,Marble Cake,Regular,18.81,5,94.05,Fadi Aoun,2025-05-19,Online Transfer,Processing
+79,Carrot Cake,Birthday,31.78,5,158.9,Omar Saleh,2025-06-15,Online Transfer,Pending
+80,Lemon Cake,Birthday,47.52,5,237.6,Maya Chami,2025-07-14,Debit Card,Pending
+81,Lemon Cake,Anniversary,34.38,3,103.14,Jad Sarkis,2025-05-13,Debit Card,Delivered
+82,Black Forest Cake,Custom,35.83,2,71.66,Tarek Nassif,2025-05-04,Credit Card,Processing
+83,Cheesecake,Anniversary,42.3,4,169.2,Layla Hamdan,2025-01-09,Online Transfer,Pending
+84,Fruit Cake,Regular,25.31,5,126.55,Nour Assaf,2025-08-31,Online Transfer,Cancelled
+85,Vanilla Cake,Wedding,27.59,4,110.36,Sara Mansour,2025-06-06,Credit Card,Cancelled
+86,Carrot Cake,Wedding,15.98,5,79.9,Dana Khoury,2025-04-05,Online Transfer,Cancelled
+87,Cheesecake,Wedding,46.23,5,231.15,Omar Saleh,2025-05-25,Credit Card,Cancelled
+88,Red Velvet Cake,Anniversary,18.97,1,18.97,Ahmad Khalil,2025-10-01,Cash,Cancelled
+89,Cheesecake,Birthday,44.87,2,89.74,Rania Deeb,2025-09-09,Debit Card,Processing
+90,Vanilla Cake,Custom,33.94,3,101.82,Sara Mansour,2025-01-27,Cash,Processing
+91,Red Velvet Cake,Wedding,34.59,5,172.95,Fadi Aoun,2025-01-28,Debit Card,Delivered
+92,Marble Cake,Regular,59.7,1,59.7,Fadi Aoun,2025-08-02,Credit Card,Processing
+93,Vanilla Cake,Regular,32.53,4,130.12,Rania Deeb,2025-08-08,Cash,Delivered
+94,Vanilla Cake,Birthday,57.38,2,114.76,Rami Fares,2025-04-19,Credit Card,Pending
+95,Tiramisu Cake,Regular,37.6,2,75.2,Maya Chami,2025-07-29,Debit Card,Delivered
+96,Cheesecake,Wedding,21.57,3,64.71,Jad Sarkis,2025-08-21,Debit Card,Pending
+97,Vanilla Cake,Wedding,31.26,5,156.3,Sara Mansour,2025-03-18,Cash,Pending
+98,Vanilla Cake,Custom,49.63,5,248.15,Sara Mansour,2025-10-19,Online Transfer,Cancelled
+99,Tiramisu Cake,Custom,44.99,3,134.97,Sara Mansour,2025-10-04,Cash,Processing
+100,Cheesecake,Wedding,46.73,5,233.65,Hassan Ali,2025-01-14,Cash,Cancelled
+101,Tiramisu Cake,Anniversary,38.81,2,77.62,Rami Fares,2025-09-23,Online Transfer,Processing
+102,Lemon Cake,Anniversary,58.45,4,233.8,Hassan Ali,2025-07-29,Cash,Pending
+103,Fruit Cake,Birthday,26.49,4,105.96,Maya Chami,2025-07-25,Cash,Cancelled
+104,Fruit Cake,Birthday,22.62,1,22.62,Hassan Ali,2025-07-26,Online Transfer,Processing
+105,Tiramisu Cake,Birthday,12.71,5,63.55,Layla Hamdan,2025-09-13,Debit Card,Pending
+106,Cheesecake,Birthday,56.38,4,225.52,Hassan Ali,2025-09-06,Credit Card,Pending
+107,Cheesecake,Wedding,25.54,1,25.54,Nadine Farhat,2025-07-28,Cash,Processing
+108,Fruit Cake,Anniversary,57.35,2,114.7,Karim Yousef,2025-05-30,Online Transfer,Processing
+109,Carrot Cake,Regular,22.19,5,110.95,Tarek Nassif,2025-07-16,Credit Card,Delivered
+110,Vanilla Cake,Birthday,23.81,4,95.24,Omar Saleh,2025-09-17,Debit Card,Processing
+111,Lemon Cake,Anniversary,53.26,4,213.04,Tarek Nassif,2025-09-05,Online Transfer,Processing
+112,Marble Cake,Custom,56.64,2,113.28,Layla Hamdan,2025-05-03,Online Transfer,Delivered
+113,Black Forest Cake,Wedding,25.91,4,103.64,Maya Chami,2025-07-15,Cash,Pending
+114,Tiramisu Cake,Birthday,35.11,5,175.55,Tarek Nassif,2025-02-21,Online Transfer,Delivered
+115,Cheesecake,Custom,46.12,4,184.48,Fadi Aoun,2025-03-21,Debit Card,Cancelled
+116,Lemon Cake,Regular,41.16,4,164.64,Karim Yousef,2025-02-11,Debit Card,Processing
+117,Carrot Cake,Anniversary,53.62,1,53.62,Layla Hamdan,2025-02-05,Cash,Processing
+118,Vanilla Cake,Birthday,58.92,1,58.92,Ahmad Khalil,2025-03-27,Debit Card,Delivered
+119,Carrot Cake,Regular,24.67,3,74.01,Karim Yousef,2025-03-16,Credit Card,Pending
+120,Marble Cake,Wedding,18.75,5,93.75,Maya Chami,2025-07-15,Credit Card,Pending
+121,Chocolate Cake,Custom,33.06,3,99.18,Jad Sarkis,2025-05-11,Debit Card,Pending
+122,Black Forest Cake,Anniversary,13.69,3,41.07,Maya Chami,2025-06-03,Debit Card,Pending
+123,Black Forest Cake,Regular,59.97,4,239.88,Nour Assaf,2025-05-02,Debit Card,Cancelled
+124,Marble Cake,Birthday,11.1,4,44.4,Jad Sarkis,2025-01-05,Online Transfer,Cancelled
+125,Carrot Cake,Wedding,48.79,2,97.58,Rania Deeb,2025-06-30,Debit Card,Pending
+126,Chocolate Cake,Regular,41.41,1,41.41,Nour Assaf,2025-08-14,Credit Card,Delivered
+127,Red Velvet Cake,Wedding,55.48,3,166.44,Rami Fares,2025-08-01,Debit Card,Cancelled
+128,Vanilla Cake,Anniversary,51.52,3,154.56,Fadi Aoun,2025-09-04,Cash,Processing
+129,Black Forest Cake,Regular,58.14,2,116.28,Nour Assaf,2025-04-26,Cash,Processing
+130,Lemon Cake,Anniversary,10.7,5,53.5,Rania Deeb,2025-08-21,Online Transfer,Cancelled
+131,Marble Cake,Regular,15.42,2,30.84,Nour Assaf,2025-01-13,Credit Card,Delivered
+132,Black Forest Cake,Birthday,41.77,4,167.08,Rami Fares,2025-06-04,Cash,Delivered
+133,Carrot Cake,Regular,25.22,4,100.88,Rami Fares,2025-02-19,Online Transfer,Processing
+134,Red Velvet Cake,Custom,28.55,5,142.75,Hassan Ali,2025-10-28,Cash,Processing
+135,Carrot Cake,Custom,40.78,3,122.34,Maya Chami,2025-07-09,Credit Card,Cancelled
+136,Chocolate Cake,Custom,14.97,3,44.91,Omar Saleh,2025-07-03,Credit Card,Delivered
+137,Marble Cake,Birthday,57.45,4,229.8,Ahmad Khalil,2025-04-19,Debit Card,Pending
+138,Fruit Cake,Wedding,59.44,5,297.2,Rania Deeb,2025-02-05,Credit Card,Pending
+139,Vanilla Cake,Wedding,26.43,2,52.86,Rami Fares,2025-01-02,Debit Card,Pending
+140,Lemon Cake,Wedding,15.5,1,15.5,Rania Deeb,2025-01-08,Debit Card,Delivered
+141,Fruit Cake,Birthday,18.71,1,18.71,Dana Khoury,2025-08-04,Cash,Processing
+142,Tiramisu Cake,Regular,32.41,3,97.23,Layla Hamdan,2025-02-25,Cash,Cancelled
+143,Black Forest Cake,Custom,32.9,1,32.9,Hassan Ali,2025-09-03,Cash,Processing
+144,Lemon Cake,Regular,45.62,4,182.48,Rami Fares,2025-02-11,Cash,Pending
+145,Black Forest Cake,Regular,23.75,5,118.75,Tarek Nassif,2025-06-16,Debit Card,Processing
+146,Fruit Cake,Wedding,35.28,4,141.12,Karim Yousef,2025-02-28,Online Transfer,Pending
+147,Cheesecake,Anniversary,30.69,4,122.76,Karim Yousef,2025-08-01,Debit Card,Cancelled
+148,Cheesecake,Birthday,28.72,2,57.44,Nadine Farhat,2025-08-31,Cash,Delivered
+149,Fruit Cake,Birthday,31.59,3,94.77,Rania Deeb,2025-03-08,Debit Card,Delivered
+150,Vanilla Cake,Regular,30.54,4,122.16,Omar Saleh,2025-01-27,Debit Card,Delivered
+151,Carrot Cake,Birthday,38.9,2,77.8,Nour Assaf,2025-09-04,Debit Card,Delivered
+152,Fruit Cake,Regular,48.13,5,240.65,Rania Deeb,2025-08-08,Cash,Cancelled
+153,Lemon Cake,Anniversary,11.45,3,34.35,Ahmad Khalil,2025-06-08,Credit Card,Pending
+154,Chocolate Cake,Birthday,38.32,4,153.28,Dana Khoury,2025-03-14,Credit Card,Processing
+155,Vanilla Cake,Anniversary,30.99,3,92.97,Fadi Aoun,2025-07-09,Cash,Delivered
+156,Vanilla Cake,Custom,17.78,5,88.9,Hassan Ali,2025-02-11,Online Transfer,Processing
+157,Fruit Cake,Birthday,40.35,4,161.4,Nour Assaf,2025-04-21,Online Transfer,Delivered
+158,Vanilla Cake,Birthday,24.16,5,120.8,Layla Hamdan,2025-09-27,Online Transfer,Delivered
+159,Vanilla Cake,Anniversary,10.38,3,31.14,Nour Assaf,2025-03-12,Cash,Delivered
+160,Black Forest Cake,Regular,34.87,4,139.48,Dana Khoury,2025-03-08,Credit Card,Cancelled
+161,Tiramisu Cake,Birthday,13.6,1,13.6,Nadine Farhat,2025-01-10,Debit Card,Processing
+162,Black Forest Cake,Birthday,38.67,4,154.68,Nour Assaf,2025-02-28,Credit Card,Processing
+163,Cheesecake,Wedding,51.6,3,154.8,Karim Yousef,2025-08-12,Online Transfer,Delivered
+164,Carrot Cake,Anniversary,29.79,3,89.37,Fadi Aoun,2025-06-23,Credit Card,Delivered
+165,Carrot Cake,Anniversary,35.52,1,35.52,Nour Assaf,2025-09-19,Credit Card,Pending
+166,Marble Cake,Wedding,15.14,3,45.42,Fadi Aoun,2025-03-30,Cash,Pending
+167,Marble Cake,Custom,57.56,4,230.24,Hassan Ali,2025-10-16,Debit Card,Cancelled
+168,Vanilla Cake,Anniversary,17.55,1,17.55,Rania Deeb,2025-08-15,Cash,Cancelled
+169,Chocolate Cake,Birthday,35.37,3,106.11,Nour Assaf,2025-08-20,Debit Card,Delivered
+170,Black Forest Cake,Custom,42.23,1,42.23,Rania Deeb,2025-09-17,Cash,Processing
+171,Lemon Cake,Regular,55.45,5,277.25,Maya Chami,2025-04-07,Credit Card,Delivered
+172,Fruit Cake,Wedding,32.53,3,97.59,Ahmad Khalil,2025-02-13,Credit Card,Processing
+173,Lemon Cake,Anniversary,59.55,5,297.75,Jad Sarkis,2025-03-23,Debit Card,Processing
+174,Lemon Cake,Birthday,30.44,3,91.32,Nour Assaf,2025-01-27,Cash,Processing
+175,Lemon Cake,Birthday,24.21,5,121.05,Rania Deeb,2025-03-18,Credit Card,Cancelled
+176,Vanilla Cake,Regular,25.51,4,102.04,Karim Yousef,2025-02-13,Debit Card,Pending
+177,Fruit Cake,Anniversary,43.51,5,217.55,Ahmad Khalil,2025-08-05,Debit Card,Cancelled
+178,Carrot Cake,Wedding,19.01,2,38.02,Rami Fares,2025-09-06,Credit Card,Delivered
+179,Fruit Cake,Birthday,24.79,1,24.79,Hassan Ali,2025-10-04,Debit Card,Pending
+180,Marble Cake,Wedding,39.86,2,79.72,Dana Khoury,2025-04-03,Online Transfer,Delivered
+181,Tiramisu Cake,Wedding,30.54,2,61.08,Tarek Nassif,2025-05-26,Credit Card,Cancelled
+182,Lemon Cake,Regular,58.28,4,233.12,Maya Chami,2025-04-10,Online Transfer,Cancelled
+183,Red Velvet Cake,Wedding,48.91,5,244.55,Fadi Aoun,2025-08-03,Credit Card,Cancelled
+184,Fruit Cake,Birthday,12.61,4,50.44,Dana Khoury,2025-07-10,Cash,Cancelled
+185,Fruit Cake,Wedding,14.19,2,28.38,Nadine Farhat,2025-08-19,Online Transfer,Delivered
+186,Lemon Cake,Birthday,57.32,2,114.64,Karim Yousef,2025-08-19,Cash,Processing
+187,Lemon Cake,Wedding,35.1,2,70.2,Ahmad Khalil,2025-02-11,Debit Card,Delivered
+188,Red Velvet Cake,Birthday,51.96,3,155.88,Omar Saleh,2025-03-16,Online Transfer,Pending
+189,Cheesecake,Birthday,47.94,4,191.76,Omar Saleh,2025-01-03,Credit Card,Pending
+190,Cheesecake,Anniversary,37.44,5,187.2,Layla Hamdan,2025-08-05,Debit Card,Delivered
+191,Cheesecake,Birthday,12.39,4,49.56,Nadine Farhat,2025-08-23,Online Transfer,Delivered
+192,Vanilla Cake,Custom,41.6,5,208.0,Ahmad Khalil,2025-03-15,Debit Card,Pending
+193,Fruit Cake,Anniversary,38.53,2,77.06,Sara Mansour,2025-02-13,Cash,Processing
+194,Lemon Cake,Anniversary,53.67,1,53.67,Dana Khoury,2025-07-18,Cash,Cancelled
+195,Marble Cake,Anniversary,49.43,3,148.29,Rami Fares,2025-02-23,Cash,Cancelled
+196,Tiramisu Cake,Wedding,37.3,2,74.6,Fadi Aoun,2025-08-26,Credit Card,Delivered
+197,Carrot Cake,Birthday,45.8,4,183.2,Fadi Aoun,2025-05-31,Credit Card,Delivered
+198,Fruit Cake,Custom,25.78,3,77.34,Omar Saleh,2025-07-23,Cash,Pending
+199,Vanilla Cake,Birthday,24.31,1,24.31,Fadi Aoun,2025-06-19,Debit Card,Processing
+200,Red Velvet Cake,Custom,54.47,4,217.88,Dana Khoury,2025-06-23,Online Transfer,Cancelled
+201,Black Forest Cake,Birthday,56.22,5,281.1,Karim Yousef,2025-02-12,Credit Card,Cancelled
+202,Vanilla Cake,Custom,26.06,1,26.06,Rania Deeb,2025-06-01,Online Transfer,Pending
+203,Lemon Cake,Regular,44.49,3,133.47,Karim Yousef,2025-01-22,Debit Card,Delivered
+204,Red Velvet Cake,Birthday,13.75,4,55.0,Rami Fares,2025-09-20,Online Transfer,Delivered
+205,Lemon Cake,Custom,16.31,2,32.62,Rania Deeb,2025-07-07,Cash,Pending
+206,Cheesecake,Regular,43.95,3,131.85,Rami Fares,2025-08-16,Debit Card,Processing
+207,Chocolate Cake,Wedding,25.72,3,77.16,Maya Chami,2025-02-28,Online Transfer,Delivered
+208,Carrot Cake,Regular,23.09,3,69.27,Omar Saleh,2025-08-17,Online Transfer,Pending
+209,Tiramisu Cake,Birthday,16.13,1,16.13,Fadi Aoun,2025-03-30,Debit Card,Cancelled
+210,Vanilla Cake,Wedding,45.48,5,227.4,Dana Khoury,2025-05-29,Credit Card,Cancelled
+211,Carrot Cake,Custom,35.44,1,35.44,Ahmad Khalil,2025-03-13,Debit Card,Cancelled
+212,Cheesecake,Anniversary,33.37,5,166.85,Karim Yousef,2025-02-14,Online Transfer,Processing
+213,Lemon Cake,Birthday,48.46,5,242.3,Maya Chami,2025-03-06,Online Transfer,Cancelled
+214,Red Velvet Cake,Wedding,16.42,5,82.1,Karim Yousef,2025-10-28,Cash,Delivered
+215,Lemon Cake,Wedding,35.91,3,107.73,Nour Assaf,2025-03-24,Debit Card,Delivered
+216,Vanilla Cake,Regular,22.53,5,112.65,Tarek Nassif,2025-03-06,Cash,Pending
+217,Marble Cake,Regular,39.59,5,197.95,Nour Assaf,2025-03-29,Cash,Delivered
+218,Marble Cake,Custom,14.06,5,70.3,Rania Deeb,2025-04-18,Cash,Processing
+219,Tiramisu Cake,Wedding,54.45,5,272.25,Fadi Aoun,2025-06-04,Online Transfer,Cancelled
+220,Black Forest Cake,Custom,32.68,1,32.68,Maya Chami,2025-08-14,Credit Card,Cancelled
+221,Lemon Cake,Custom,40.33,3,120.99,Rami Fares,2025-06-13,Debit Card,Delivered
+222,Tiramisu Cake,Wedding,25.96,4,103.84,Rami Fares,2025-05-17,Cash,Delivered
+223,Carrot Cake,Wedding,24.51,4,98.04,Nadine Farhat,2025-08-03,Debit Card,Cancelled
+224,Tiramisu Cake,Custom,19.49,2,38.98,Jad Sarkis,2025-09-21,Debit Card,Processing
+225,Carrot Cake,Wedding,11.16,4,44.64,Rania Deeb,2025-08-23,Debit Card,Delivered
+226,Vanilla Cake,Regular,12.53,4,50.12,Ahmad Khalil,2025-08-29,Cash,Processing
+227,Black Forest Cake,Anniversary,16.7,3,50.1,Ahmad Khalil,2025-07-07,Online Transfer,Delivered
+228,Vanilla Cake,Birthday,38.51,2,77.02,Karim Yousef,2025-10-11,Online Transfer,Cancelled
+229,Red Velvet Cake,Birthday,51.27,5,256.35,Karim Yousef,2025-03-02,Debit Card,Cancelled
+230,Carrot Cake,Regular,37.89,3,113.67,Tarek Nassif,2025-03-15,Online Transfer,Delivered
+231,Tiramisu Cake,Regular,12.27,2,24.54,Maya Chami,2025-06-20,Credit Card,Pending
+232,Black Forest Cake,Regular,26.4,5,132.0,Dana Khoury,2025-03-25,Debit Card,Cancelled
+233,Marble Cake,Anniversary,35.37,5,176.85,Maya Chami,2025-09-08,Cash,Cancelled
+234,Vanilla Cake,Birthday,26.56,1,26.56,Rania Deeb,2025-10-26,Online Transfer,Cancelled
+235,Chocolate Cake,Regular,58.35,5,291.75,Maya Chami,2025-04-27,Credit Card,Processing
+236,Cheesecake,Wedding,17.39,2,34.78,Ahmad Khalil,2025-10-21,Online Transfer,Cancelled
+237,Black Forest Cake,Regular,30.94,4,123.76,Fadi Aoun,2025-04-15,Online Transfer,Delivered
+238,Lemon Cake,Custom,45.29,5,226.45,Tarek Nassif,2025-10-15,Online Transfer,Cancelled
+239,Fruit Cake,Anniversary,57.83,4,231.32,Hassan Ali,2025-06-25,Debit Card,Processing
+240,Vanilla Cake,Wedding,19.61,2,39.22,Omar Saleh,2025-10-13,Debit Card,Pending
+241,Lemon Cake,Regular,44.51,4,178.04,Jad Sarkis,2025-09-03,Debit Card,Cancelled
+242,Lemon Cake,Wedding,16.09,5,80.45,Omar Saleh,2025-07-22,Cash,Cancelled
+243,Vanilla Cake,Custom,57.77,1,57.77,Layla Hamdan,2025-08-15,Credit Card,Cancelled
+244,Marble Cake,Regular,56.65,3,169.95,Layla Hamdan,2025-02-25,Credit Card,Delivered
+245,Chocolate Cake,Birthday,43.49,5,217.45,Karim Yousef,2025-04-30,Debit Card,Processing
+246,Red Velvet Cake,Custom,15.03,2,30.06,Hassan Ali,2025-10-09,Online Transfer,Processing
+247,Chocolate Cake,Birthday,42.53,3,127.59,Hassan Ali,2025-05-27,Credit Card,Delivered
+248,Chocolate Cake,Custom,55.66,2,111.32,Fadi Aoun,2025-04-01,Online Transfer,Pending
+249,Vanilla Cake,Regular,56.83,3,170.49,Rania Deeb,2025-01-05,Cash,Cancelled
+250,Red Velvet Cake,Regular,24.23,5,121.15,Maya Chami,2025-09-10,Debit Card,Pending
+251,Vanilla Cake,Wedding,50.44,3,151.32,Ahmad Khalil,2025-08-23,Debit Card,Cancelled
+252,Black Forest Cake,Regular,38.39,2,76.78,Nour Assaf,2025-07-27,Cash,Processing
+253,Lemon Cake,Wedding,43.46,2,86.92,Ahmad Khalil,2025-09-02,Debit Card,Processing
+254,Marble Cake,Regular,21.78,3,65.34,Ahmad Khalil,2025-06-04,Debit Card,Cancelled
+255,Tiramisu Cake,Anniversary,44.64,1,44.64,Rami Fares,2025-03-02,Online Transfer,Cancelled
+256,Carrot Cake,Wedding,44.51,3,133.53,Maya Chami,2025-04-24,Credit Card,Processing
+257,Fruit Cake,Custom,47.39,5,236.95,Fadi Aoun,2025-08-01,Credit Card,Pending
+258,Fruit Cake,Custom,44.02,5,220.1,Tarek Nassif,2025-02-11,Debit Card,Delivered
+259,Fruit Cake,Wedding,55.86,1,55.86,Rania Deeb,2025-10-08,Credit Card,Pending
+260,Carrot Cake,Regular,26.41,5,132.05,Maya Chami,2025-03-01,Cash,Processing
+261,Black Forest Cake,Custom,50.43,4,201.72,Rania Deeb,2025-09-20,Cash,Processing
+262,Black Forest Cake,Anniversary,43.64,3,130.92,Nadine Farhat,2025-01-12,Cash,Pending
+263,Cheesecake,Regular,38.92,1,38.92,Ahmad Khalil,2025-06-26,Cash,Processing
+264,Black Forest Cake,Anniversary,11.59,4,46.36,Jad Sarkis,2025-03-11,Online Transfer,Processing
+265,Fruit Cake,Wedding,53.48,4,213.92,Hassan Ali,2025-02-11,Debit Card,Delivered
+266,Red Velvet Cake,Wedding,18.92,5,94.6,Nadine Farhat,2025-09-28,Cash,Delivered
+267,Black Forest Cake,Regular,58.92,4,235.68,Karim Yousef,2025-10-06,Credit Card,Pending
+268,Cheesecake,Birthday,33.03,2,66.06,Fadi Aoun,2025-04-07,Online Transfer,Delivered
+269,Tiramisu Cake,Regular,22.03,1,22.03,Hassan Ali,2025-01-18,Cash,Pending
+270,Fruit Cake,Wedding,47.03,4,188.12,Fadi Aoun,2025-04-30,Cash,Pending
+271,Lemon Cake,Regular,35.19,3,105.57,Rania Deeb,2025-10-22,Debit Card,Pending
+272,Carrot Cake,Custom,25.09,2,50.18,Omar Saleh,2025-09-24,Debit Card,Delivered
+273,Black Forest Cake,Regular,37.84,5,189.2,Maya Chami,2025-03-31,Cash,Cancelled
+274,Lemon Cake,Custom,57.08,4,228.32,Karim Yousef,2025-09-26,Credit Card,Cancelled
+275,Carrot Cake,Anniversary,28.82,5,144.1,Nadine Farhat,2025-05-04,Credit Card,Processing
+276,Fruit Cake,Regular,55.74,5,278.7,Rami Fares,2025-08-02,Online Transfer,Pending
+277,Tiramisu Cake,Anniversary,22.75,3,68.25,Sara Mansour,2025-02-10,Credit Card,Delivered
+278,Cheesecake,Wedding,23.42,5,117.1,Fadi Aoun,2025-01-21,Credit Card,Processing
+279,Carrot Cake,Wedding,20.44,3,61.32,Dana Khoury,2025-01-08,Cash,Processing
+280,Black Forest Cake,Wedding,55.72,5,278.6,Tarek Nassif,2025-04-15,Debit Card,Cancelled
+281,Vanilla Cake,Anniversary,29.03,5,145.15,Nour Assaf,2025-07-03,Online Transfer,Processing
+282,Carrot Cake,Anniversary,14.93,4,59.72,Nour Assaf,2025-06-13,Online Transfer,Delivered
+283,Chocolate Cake,Anniversary,38.13,2,76.26,Tarek Nassif,2025-03-16,Online Transfer,Cancelled
+284,Marble Cake,Wedding,17.62,3,52.86,Maya Chami,2025-07-14,Debit Card,Cancelled
+285,Tiramisu Cake,Wedding,48.17,4,192.68,Dana Khoury,2025-09-09,Debit Card,Pending
+286,Fruit Cake,Birthday,17.0,5,85.0,Tarek Nassif,2025-04-05,Cash,Delivered
+287,Black Forest Cake,Wedding,57.26,1,57.26,Nadine Farhat,2025-01-04,Credit Card,Delivered
+288,Tiramisu Cake,Anniversary,45.36,1,45.36,Ahmad Khalil,2025-09-16,Online Transfer,Processing
+289,Chocolate Cake,Birthday,10.79,5,53.95,Tarek Nassif,2025-07-30,Debit Card,Cancelled
+290,Cheesecake,Birthday,10.86,4,43.44,Tarek Nassif,2025-04-02,Credit Card,Pending
+291,Vanilla Cake,Custom,19.6,5,98.0,Sara Mansour,2025-07-01,Debit Card,Processing
+292,Vanilla Cake,Birthday,32.95,2,65.9,Hassan Ali,2025-04-26,Cash,Delivered
+293,Chocolate Cake,Birthday,30.26,4,121.04,Dana Khoury,2025-09-01,Credit Card,Delivered
+294,Marble Cake,Birthday,34.99,4,139.96,Jad Sarkis,2025-06-19,Cash,Pending
+295,Chocolate Cake,Birthday,20.57,5,102.85,Hassan Ali,2025-05-19,Debit Card,Delivered
+296,Marble Cake,Wedding,18.97,3,56.91,Fadi Aoun,2025-04-17,Online Transfer,Delivered
+297,Black Forest Cake,Regular,24.96,5,124.8,Nour Assaf,2025-10-18,Online Transfer,Pending
+298,Chocolate Cake,Birthday,49.52,1,49.52,Karim Yousef,2025-06-27,Credit Card,Delivered
+299,Lemon Cake,Birthday,27.03,5,135.15,Hassan Ali,2025-07-23,Debit Card,Processing
+300,Black Forest Cake,Wedding,34.53,3,103.59,Hassan Ali,2025-07-12,Online Transfer,Delivered
+301,Cheesecake,Birthday,48.61,3,145.83,Omar Saleh,2025-05-07,Credit Card,Processing
+302,Lemon Cake,Anniversary,45.58,2,91.16,Sara Mansour,2025-07-19,Cash,Delivered
+303,Cheesecake,Wedding,57.15,4,228.6,Sara Mansour,2025-05-19,Credit Card,Processing
+304,Cheesecake,Birthday,32.44,5,162.2,Sara Mansour,2025-07-28,Debit Card,Delivered
+305,Chocolate Cake,Anniversary,39.85,3,119.55,Karim Yousef,2025-07-17,Online Transfer,Delivered
+306,Fruit Cake,Wedding,46.24,5,231.2,Hassan Ali,2025-10-20,Online Transfer,Pending
+307,Red Velvet Cake,Birthday,16.94,3,50.82,Rami Fares,2025-09-10,Online Transfer,Cancelled
+308,Lemon Cake,Anniversary,31.06,4,124.24,Layla Hamdan,2025-02-09,Online Transfer,Pending
+309,Black Forest Cake,Anniversary,32.89,2,65.78,Nadine Farhat,2025-01-04,Online Transfer,Cancelled
+310,Vanilla Cake,Anniversary,32.01,4,128.04,Rania Deeb,2025-03-11,Credit Card,Processing
+311,Tiramisu Cake,Regular,25.71,4,102.84,Fadi Aoun,2025-05-30,Credit Card,Cancelled
+312,Marble Cake,Wedding,28.8,4,115.2,Rania Deeb,2025-02-28,Credit Card,Delivered
+313,Tiramisu Cake,Anniversary,57.65,4,230.6,Nadine Farhat,2025-04-18,Cash,Processing
+314,Carrot Cake,Anniversary,43.65,2,87.3,Hassan Ali,2025-06-05,Credit Card,Processing
+315,Marble Cake,Custom,49.45,1,49.45,Tarek Nassif,2025-09-03,Online Transfer,Delivered
+316,Marble Cake,Birthday,49.54,3,148.62,Sara Mansour,2025-10-02,Credit Card,Cancelled
+317,Black Forest Cake,Anniversary,18.32,5,91.6,Fadi Aoun,2025-10-16,Online Transfer,Delivered
+318,Fruit Cake,Regular,10.53,3,31.59,Rania Deeb,2025-09-19,Credit Card,Processing
+319,Red Velvet Cake,Anniversary,28.71,4,114.84,Ahmad Khalil,2025-09-14,Online Transfer,Delivered
+320,Lemon Cake,Anniversary,24.77,1,24.77,Nour Assaf,2025-03-14,Online Transfer,Pending
+321,Tiramisu Cake,Custom,36.06,3,108.18,Nour Assaf,2025-02-19,Cash,Cancelled
+322,Cheesecake,Wedding,12.23,1,12.23,Jad Sarkis,2025-06-25,Credit Card,Pending
+323,Tiramisu Cake,Wedding,37.6,3,112.8,Fadi Aoun,2025-08-07,Online Transfer,Pending
+324,Marble Cake,Wedding,19.32,4,77.28,Maya Chami,2025-01-15,Online Transfer,Processing
+325,Cheesecake,Regular,10.22,2,20.44,Sara Mansour,2025-05-23,Credit Card,Cancelled
+326,Tiramisu Cake,Regular,26.3,4,105.2,Hassan Ali,2025-05-15,Debit Card,Processing
+327,Lemon Cake,Custom,40.57,5,202.85,Rania Deeb,2025-06-28,Credit Card,Cancelled
+328,Lemon Cake,Birthday,55.93,5,279.65,Layla Hamdan,2025-03-10,Debit Card,Delivered
+329,Black Forest Cake,Regular,19.15,2,38.3,Rami Fares,2025-07-18,Online Transfer,Processing
+330,Fruit Cake,Wedding,19.29,5,96.45,Maya Chami,2025-03-30,Debit Card,Pending
+331,Lemon Cake,Birthday,19.35,4,77.4,Maya Chami,2025-01-28,Credit Card,Pending
+332,Black Forest Cake,Custom,50.76,5,253.8,Karim Yousef,2025-09-11,Online Transfer,Processing
+333,Vanilla Cake,Birthday,18.36,5,91.8,Omar Saleh,2025-04-23,Credit Card,Cancelled
+334,Fruit Cake,Regular,18.41,4,73.64,Sara Mansour,2025-09-11,Cash,Cancelled
+335,Tiramisu Cake,Regular,48.76,3,146.28,Layla Hamdan,2025-01-22,Online Transfer,Delivered
+336,Tiramisu Cake,Anniversary,46.8,2,93.6,Nour Assaf,2025-01-17,Cash,Processing
+337,Carrot Cake,Regular,53.26,1,53.26,Dana Khoury,2025-05-02,Debit Card,Processing
+338,Carrot Cake,Birthday,18.3,2,36.6,Rania Deeb,2025-04-16,Debit Card,Cancelled
+339,Vanilla Cake,Regular,39.84,2,79.68,Omar Saleh,2025-05-30,Cash,Pending
+340,Red Velvet Cake,Wedding,58.14,4,232.56,Layla Hamdan,2025-05-22,Credit Card,Cancelled
+341,Marble Cake,Anniversary,51.42,4,205.68,Hassan Ali,2025-03-14,Online Transfer,Processing
+342,Vanilla Cake,Anniversary,32.6,1,32.6,Maya Chami,2025-09-21,Online Transfer,Cancelled
+343,Lemon Cake,Birthday,39.1,1,39.1,Fadi Aoun,2025-08-23,Online Transfer,Pending
+344,Lemon Cake,Anniversary,58.41,2,116.82,Nour Assaf,2025-05-18,Credit Card,Processing
+345,Tiramisu Cake,Birthday,49.42,1,49.42,Sara Mansour,2025-02-20,Credit Card,Processing
+346,Vanilla Cake,Wedding,32.83,4,131.32,Nadine Farhat,2025-03-09,Debit Card,Delivered
+347,Red Velvet Cake,Birthday,42.73,3,128.19,Karim Yousef,2025-07-10,Debit Card,Pending
+348,Chocolate Cake,Wedding,31.46,1,31.46,Maya Chami,2025-02-18,Cash,Pending
+349,Chocolate Cake,Birthday,39.68,5,198.4,Dana Khoury,2025-08-16,Debit Card,Delivered
+350,Tiramisu Cake,Birthday,59.41,4,237.64,Layla Hamdan,2025-03-09,Online Transfer,Delivered
+351,Lemon Cake,Anniversary,46.54,1,46.54,Rami Fares,2025-06-10,Online Transfer,Pending
+352,Marble Cake,Birthday,42.08,2,84.16,Rania Deeb,2025-09-29,Credit Card,Processing
+353,Black Forest Cake,Regular,27.56,2,55.12,Hassan Ali,2025-03-19,Online Transfer,Pending
+354,Marble Cake,Custom,14.33,1,14.33,Nour Assaf,2025-03-05,Online Transfer,Cancelled
+355,Carrot Cake,Regular,49.55,2,99.1,Rania Deeb,2025-02-13,Debit Card,Delivered
+356,Marble Cake,Regular,52.39,3,157.17,Layla Hamdan,2025-09-23,Online Transfer,Cancelled
+357,Cheesecake,Wedding,42.31,2,84.62,Maya Chami,2025-07-17,Cash,Delivered
+358,Marble Cake,Custom,59.34,3,178.02,Nour Assaf,2025-07-18,Credit Card,Processing
+359,Cheesecake,Birthday,57.72,1,57.72,Omar Saleh,2025-10-28,Credit Card,Delivered
+360,Fruit Cake,Custom,56.13,4,224.52,Karim Yousef,2025-05-27,Online Transfer,Delivered
+361,Vanilla Cake,Birthday,42.03,5,210.15,Omar Saleh,2025-03-20,Cash,Pending
+362,Black Forest Cake,Regular,58.72,2,117.44,Hassan Ali,2025-06-17,Cash,Cancelled
+363,Cheesecake,Custom,44.93,2,89.86,Sara Mansour,2025-05-06,Online Transfer,Delivered
+364,Red Velvet Cake,Birthday,25.46,2,50.92,Rami Fares,2025-01-07,Online Transfer,Cancelled
+365,Red Velvet Cake,Anniversary,36.15,3,108.45,Dana Khoury,2025-07-10,Cash,Delivered
+366,Cheesecake,Anniversary,26.75,4,107.0,Dana Khoury,2025-09-26,Cash,Processing
+367,Marble Cake,Wedding,32.76,3,98.28,Nour Assaf,2025-09-13,Credit Card,Cancelled
+368,Carrot Cake,Regular,48.67,5,243.35,Ahmad Khalil,2025-03-01,Cash,Delivered
+369,Red Velvet Cake,Wedding,22.23,4,88.92,Jad Sarkis,2025-07-16,Cash,Processing
+370,Vanilla Cake,Birthday,21.23,2,42.46,Rania Deeb,2025-06-13,Debit Card,Delivered
+371,Fruit Cake,Birthday,35.1,1,35.1,Karim Yousef,2025-04-25,Cash,Processing
+372,Fruit Cake,Custom,53.3,3,159.9,Ahmad Khalil,2025-02-14,Debit Card,Pending
+373,Tiramisu Cake,Anniversary,24.58,3,73.74,Rania Deeb,2025-05-05,Online Transfer,Pending
+374,Red Velvet Cake,Birthday,46.62,5,233.1,Jad Sarkis,2025-05-06,Online Transfer,Delivered
+375,Lemon Cake,Birthday,21.65,3,64.95,Fadi Aoun,2025-01-05,Online Transfer,Cancelled
+376,Tiramisu Cake,Birthday,15.2,5,76.0,Rami Fares,2025-08-03,Debit Card,Delivered
+377,Black Forest Cake,Anniversary,12.2,2,24.4,Maya Chami,2025-09-24,Cash,Delivered
+378,Chocolate Cake,Custom,35.27,4,141.08,Hassan Ali,2025-10-18,Credit Card,Pending
+379,Lemon Cake,Anniversary,24.58,3,73.74,Maya Chami,2025-07-21,Debit Card,Pending
+380,Cheesecake,Wedding,13.73,2,27.46,Sara Mansour,2025-10-27,Credit Card,Processing
+381,Lemon Cake,Wedding,33.3,4,133.2,Maya Chami,2025-10-02,Debit Card,Processing
+382,Vanilla Cake,Regular,23.25,1,23.25,Ahmad Khalil,2025-03-22,Credit Card,Cancelled
+383,Fruit Cake,Birthday,17.42,2,34.84,Hassan Ali,2025-07-22,Debit Card,Cancelled
+384,Tiramisu Cake,Regular,51.0,2,102.0,Dana Khoury,2025-07-27,Credit Card,Delivered
+385,Chocolate Cake,Wedding,33.1,2,66.2,Rami Fares,2025-01-07,Credit Card,Processing
+386,Vanilla Cake,Birthday,28.61,1,28.61,Ahmad Khalil,2025-10-28,Cash,Pending
+387,Cheesecake,Anniversary,55.12,4,220.48,Sara Mansour,2025-03-07,Cash,Processing
+388,Tiramisu Cake,Birthday,12.53,5,62.65,Karim Yousef,2025-07-22,Online Transfer,Pending
+389,Tiramisu Cake,Wedding,27.7,2,55.4,Ahmad Khalil,2025-05-24,Credit Card,Cancelled
+390,Cheesecake,Anniversary,34.94,5,174.7,Karim Yousef,2025-02-01,Credit Card,Processing
+391,Chocolate Cake,Custom,19.97,5,99.85,Fadi Aoun,2025-10-06,Debit Card,Processing
+392,Fruit Cake,Anniversary,37.23,4,148.92,Karim Yousef,2025-10-17,Debit Card,Pending
+393,Vanilla Cake,Birthday,11.3,5,56.5,Fadi Aoun,2025-01-16,Online Transfer,Cancelled
+394,Carrot Cake,Wedding,48.34,2,96.68,Omar Saleh,2025-02-21,Cash,Pending
+395,Red Velvet Cake,Wedding,38.78,4,155.12,Rania Deeb,2025-03-30,Debit Card,Cancelled
+396,Marble Cake,Regular,55.7,1,55.7,Rami Fares,2025-06-30,Credit Card,Processing
+397,Cheesecake,Birthday,37.11,2,74.22,Layla Hamdan,2025-01-20,Credit Card,Delivered
+398,Red Velvet Cake,Anniversary,36.32,1,36.32,Dana Khoury,2025-04-14,Credit Card,Cancelled
+399,Cheesecake,Regular,12.98,2,25.96,Nadine Farhat,2025-03-14,Debit Card,Delivered
+400,Lemon Cake,Anniversary,28.68,4,114.72,Nour Assaf,2025-02-21,Credit Card,Pending
+401,Lemon Cake,Wedding,46.62,4,186.48,Dana Khoury,2025-09-07,Debit Card,Pending
+402,Vanilla Cake,Wedding,43.28,2,86.56,Rami Fares,2025-06-07,Cash,Processing
+403,Marble Cake,Anniversary,52.54,5,262.7,Jad Sarkis,2025-04-04,Credit Card,Delivered
+404,Carrot Cake,Anniversary,56.83,2,113.66,Nour Assaf,2025-02-09,Credit Card,Delivered
+405,Vanilla Cake,Wedding,51.08,3,153.24,Layla Hamdan,2025-01-06,Cash,Cancelled
+406,Chocolate Cake,Custom,22.83,1,22.83,Maya Chami,2025-01-01,Online Transfer,Pending
+407,Fruit Cake,Custom,54.23,4,216.92,Sara Mansour,2025-06-29,Online Transfer,Pending
+408,Vanilla Cake,Birthday,18.13,1,18.13,Nour Assaf,2025-01-18,Debit Card,Delivered
+409,Cheesecake,Regular,13.71,2,27.42,Jad Sarkis,2025-03-24,Cash,Cancelled
+410,Black Forest Cake,Wedding,39.7,5,198.5,Rania Deeb,2025-01-16,Online Transfer,Pending
+411,Black Forest Cake,Regular,12.68,3,38.04,Dana Khoury,2025-04-08,Debit Card,Cancelled
+412,Marble Cake,Regular,24.87,1,24.87,Nadine Farhat,2025-07-21,Online Transfer,Pending
+413,Vanilla Cake,Regular,12.73,1,12.73,Maya Chami,2025-02-14,Credit Card,Delivered
+414,Cheesecake,Custom,11.29,2,22.58,Nadine Farhat,2025-05-30,Cash,Cancelled
+415,Cheesecake,Regular,49.24,4,196.96,Karim Yousef,2025-05-16,Credit Card,Cancelled
+416,Chocolate Cake,Anniversary,54.27,3,162.81,Maya Chami,2025-08-17,Online Transfer,Cancelled
+417,Red Velvet Cake,Birthday,21.31,3,63.93,Sara Mansour,2025-02-01,Debit Card,Processing
+418,Chocolate Cake,Custom,58.54,5,292.7,Nadine Farhat,2025-10-11,Online Transfer,Processing
+419,Cheesecake,Custom,38.64,2,77.28,Jad Sarkis,2025-06-03,Cash,Pending
+420,Carrot Cake,Wedding,16.01,4,64.04,Rami Fares,2025-03-27,Cash,Processing
+421,Marble Cake,Anniversary,13.92,4,55.68,Nour Assaf,2025-03-17,Cash,Delivered
+422,Vanilla Cake,Regular,29.4,4,117.6,Maya Chami,2025-06-16,Cash,Processing
+423,Marble Cake,Regular,15.63,2,31.26,Fadi Aoun,2025-10-18,Cash,Delivered
+424,Fruit Cake,Anniversary,38.13,1,38.13,Jad Sarkis,2025-05-27,Online Transfer,Cancelled
+425,Chocolate Cake,Wedding,29.15,4,116.6,Omar Saleh,2025-08-31,Online Transfer,Pending
+426,Lemon Cake,Wedding,40.91,4,163.64,Ahmad Khalil,2025-07-22,Online Transfer,Cancelled
+427,Vanilla Cake,Anniversary,54.85,1,54.85,Nadine Farhat,2025-06-05,Online Transfer,Delivered
+428,Tiramisu Cake,Anniversary,58.62,2,117.24,Omar Saleh,2025-06-03,Online Transfer,Delivered
+429,Tiramisu Cake,Regular,19.4,2,38.8,Nadine Farhat,2025-07-28,Debit Card,Delivered
+430,Fruit Cake,Custom,35.76,2,71.52,Rami Fares,2025-06-09,Cash,Pending
+431,Carrot Cake,Birthday,19.64,2,39.28,Maya Chami,2025-01-30,Cash,Cancelled
+432,Fruit Cake,Custom,45.23,3,135.69,Hassan Ali,2025-08-26,Cash,Delivered
+433,Red Velvet Cake,Custom,22.1,4,88.4,Rania Deeb,2025-08-17,Debit Card,Cancelled
+434,Vanilla Cake,Birthday,18.18,3,54.54,Karim Yousef,2025-02-16,Cash,Pending
+435,Carrot Cake,Wedding,52.69,2,105.38,Omar Saleh,2025-04-24,Online Transfer,Delivered
+436,Red Velvet Cake,Regular,53.23,1,53.23,Fadi Aoun,2025-03-09,Cash,Pending
+437,Black Forest Cake,Custom,22.62,3,67.86,Nadine Farhat,2025-05-21,Debit Card,Processing
+438,Marble Cake,Custom,22.6,4,90.4,Rania Deeb,2025-09-24,Cash,Delivered
+439,Vanilla Cake,Birthday,35.58,3,106.74,Maya Chami,2025-05-25,Cash,Cancelled
+440,Vanilla Cake,Anniversary,59.42,3,178.26,Layla Hamdan,2025-05-22,Credit Card,Pending
+441,Red Velvet Cake,Birthday,54.98,5,274.9,Hassan Ali,2025-06-13,Online Transfer,Cancelled
+442,Chocolate Cake,Regular,22.97,4,91.88,Dana Khoury,2025-07-18,Credit Card,Cancelled
+443,Tiramisu Cake,Anniversary,46.33,2,92.66,Tarek Nassif,2025-10-01,Debit Card,Pending
+444,Cheesecake,Custom,52.03,5,260.15,Rami Fares,2025-05-31,Debit Card,Pending
+445,Carrot Cake,Anniversary,57.35,3,172.05,Layla Hamdan,2025-02-15,Debit Card,Processing
+446,Marble Cake,Anniversary,49.4,3,148.2,Maya Chami,2025-05-14,Cash,Processing
+447,Tiramisu Cake,Wedding,12.68,5,63.4,Tarek Nassif,2025-02-06,Cash,Processing
+448,Red Velvet Cake,Wedding,36.49,4,145.96,Nour Assaf,2025-03-19,Online Transfer,Processing
+449,Tiramisu Cake,Anniversary,17.16,2,34.32,Hassan Ali,2025-02-11,Credit Card,Cancelled
+450,Carrot Cake,Wedding,41.72,1,41.72,Rania Deeb,2025-05-21,Credit Card,Processing
+451,Black Forest Cake,Custom,49.26,1,49.26,Karim Yousef,2025-08-11,Online Transfer,Processing
+452,Chocolate Cake,Anniversary,10.23,5,51.15,Fadi Aoun,2025-07-11,Credit Card,Delivered
+453,Vanilla Cake,Wedding,43.84,2,87.68,Sara Mansour,2025-06-26,Online Transfer,Cancelled
+454,Tiramisu Cake,Regular,18.35,1,18.35,Rania Deeb,2025-05-29,Debit Card,Processing
+455,Lemon Cake,Wedding,54.4,2,108.8,Rami Fares,2025-09-08,Online Transfer,Delivered
+456,Marble Cake,Regular,21.42,2,42.84,Rami Fares,2025-01-12,Cash,Cancelled
+457,Fruit Cake,Regular,45.56,1,45.56,Ahmad Khalil,2025-05-11,Cash,Delivered
+458,Black Forest Cake,Custom,42.68,1,42.68,Karim Yousef,2025-03-01,Cash,Cancelled
+459,Vanilla Cake,Custom,33.72,2,67.44,Hassan Ali,2025-01-05,Cash,Cancelled
+460,Fruit Cake,Regular,41.14,2,82.28,Sara Mansour,2025-02-23,Debit Card,Delivered
+461,Vanilla Cake,Regular,49.24,4,196.96,Layla Hamdan,2025-04-13,Debit Card,Processing
+462,Carrot Cake,Custom,24.77,1,24.77,Nour Assaf,2025-09-12,Credit Card,Delivered
+463,Tiramisu Cake,Wedding,10.64,1,10.64,Sara Mansour,2025-10-21,Cash,Delivered
+464,Vanilla Cake,Custom,55.24,2,110.48,Ahmad Khalil,2025-06-01,Cash,Pending
+465,Black Forest Cake,Birthday,53.71,3,161.13,Sara Mansour,2025-06-10,Cash,Delivered
+466,Tiramisu Cake,Regular,52.6,2,105.2,Omar Saleh,2025-07-03,Cash,Cancelled
+467,Black Forest Cake,Custom,50.75,2,101.5,Omar Saleh,2025-07-25,Online Transfer,Processing
+468,Chocolate Cake,Wedding,49.99,2,99.98,Sara Mansour,2025-03-09,Online Transfer,Processing
+469,Lemon Cake,Regular,50.11,4,200.44,Ahmad Khalil,2025-07-14,Credit Card,Processing
+470,Chocolate Cake,Birthday,56.02,1,56.02,Omar Saleh,2025-08-14,Debit Card,Delivered
+471,Marble Cake,Wedding,45.23,5,226.15,Hassan Ali,2025-10-23,Debit Card,Delivered
+472,Black Forest Cake,Wedding,31.64,2,63.28,Nadine Farhat,2025-06-27,Cash,Delivered
+473,Tiramisu Cake,Wedding,42.17,2,84.34,Sara Mansour,2025-08-29,Online Transfer,Cancelled
+474,Carrot Cake,Regular,22.04,3,66.12,Hassan Ali,2025-09-17,Online Transfer,Processing
+475,Marble Cake,Custom,50.86,1,50.86,Sara Mansour,2025-08-16,Online Transfer,Processing
+476,Cheesecake,Custom,25.8,4,103.2,Karim Yousef,2025-01-10,Cash,Delivered
+477,Fruit Cake,Regular,51.3,5,256.5,Layla Hamdan,2025-06-05,Online Transfer,Cancelled
+478,Tiramisu Cake,Anniversary,28.17,1,28.17,Tarek Nassif,2025-04-25,Online Transfer,Cancelled
+479,Chocolate Cake,Anniversary,45.8,1,45.8,Nour Assaf,2025-04-24,Debit Card,Cancelled
+480,Red Velvet Cake,Custom,45.1,1,45.1,Sara Mansour,2025-09-10,Debit Card,Pending
+481,Carrot Cake,Anniversary,19.38,4,77.52,Sara Mansour,2025-08-23,Online Transfer,Delivered
+482,Tiramisu Cake,Regular,56.33,5,281.65,Tarek Nassif,2025-08-19,Credit Card,Processing
+483,Marble Cake,Custom,10.22,1,10.22,Jad Sarkis,2025-08-10,Credit Card,Pending
+484,Marble Cake,Regular,46.52,2,93.04,Jad Sarkis,2025-07-18,Debit Card,Processing
+485,Vanilla Cake,Custom,30.93,5,154.65,Nour Assaf,2025-05-08,Debit Card,Processing
+486,Vanilla Cake,Regular,50.24,2,100.48,Nadine Farhat,2025-09-20,Debit Card,Pending
+487,Lemon Cake,Wedding,20.04,5,100.2,Dana Khoury,2025-05-29,Credit Card,Cancelled
+488,Marble Cake,Regular,45.52,3,136.56,Hassan Ali,2025-09-03,Online Transfer,Cancelled
+489,Fruit Cake,Birthday,53.87,4,215.48,Ahmad Khalil,2025-01-07,Online Transfer,Pending
+490,Red Velvet Cake,Anniversary,12.65,1,12.65,Hassan Ali,2025-05-17,Debit Card,Pending
+491,Chocolate Cake,Anniversary,51.97,3,155.91,Nadine Farhat,2025-10-05,Online Transfer,Delivered
+492,Fruit Cake,Custom,40.81,5,204.05,Layla Hamdan,2025-04-25,Debit Card,Delivered
+493,Fruit Cake,Birthday,56.32,4,225.28,Ahmad Khalil,2025-06-10,Debit Card,Pending
+494,Lemon Cake,Regular,41.03,4,164.12,Tarek Nassif,2025-04-26,Credit Card,Pending
+495,Red Velvet Cake,Wedding,24.71,2,49.42,Dana Khoury,2025-02-08,Cash,Processing
+496,Red Velvet Cake,Wedding,12.03,3,36.09,Rania Deeb,2025-05-16,Debit Card,Delivered
+497,Lemon Cake,Regular,26.53,2,53.06,Ahmad Khalil,2025-03-20,Debit Card,Processing
+498,Lemon Cake,Regular,49.5,5,247.5,Layla Hamdan,2025-02-07,Credit Card,Delivered
+499,Fruit Cake,Custom,49.31,2,98.62,Sara Mansour,2025-10-06,Debit Card,Pending
+500,Vanilla Cake,Wedding,54.17,3,162.51,Fadi Aoun,2025-07-04,Online Transfer,Delivered
